@@ -1,0 +1,3747 @@
+{
+	"TrackName": "ks_nurburgring",
+	"TrackConfig": "layout_sprint_b",
+	"Type": "RACE",
+	"DurationSecs": 0,
+	"RaceLaps": 12,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "Noah",
+				"Team": "",
+				"Guid": "76561198042375839"
+			},
+			"Model": "bmw_m3_e30_s1",
+			"Skin": "Germany",
+			"BallastKG": 0
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "Spooky Squid",
+				"Team": "",
+				"Guid": "76561198044450579"
+			},
+			"Model": "bmw_m3_e30_s1",
+			"Skin": "Street_Racer",
+			"BallastKG": 0
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "25",
+				"Team": "",
+				"Guid": "76561197973378378"
+			},
+			"Model": "bmw_m3_e30_s1",
+			"Skin": "Diamond_Black_metallic",
+			"BallastKG": 0
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"Model": "ks_audi_sport_quattro",
+			"Skin": "06_alpine_white_rings",
+			"BallastKG": 20
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "marzen224",
+				"Team": "",
+				"Guid": "76561198062409652"
+			},
+			"Model": "bmw_m3_e30_s1",
+			"Skin": "alpine_white",
+			"BallastKG": 0
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"Model": "bmw_m3_e30_s1",
+			"Skin": "Street_Racer",
+			"BallastKG": 0
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "lesscubes",
+				"Team": "",
+				"Guid": "76561198002354974"
+			},
+			"Model": "bmw_m3_e30_s1",
+			"Skin": "Sterling_Silver_metallic",
+			"BallastKG": 0
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "ConeDodger",
+				"Team": "",
+				"Guid": "76561198004896172"
+			},
+			"Model": "ks_audi_sport_quattro",
+			"Skin": "08_malachite_green_rings",
+			"BallastKG": 20
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Name": "Th3HolyMoose",
+				"Team": "",
+				"Guid": "76561198029842017"
+			},
+			"Model": "bmw_m3_e30_s1",
+			"Skin": "Street_Racer",
+			"BallastKG": 0
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"Model": "bmw_m3_e30_s1",
+			"Skin": "Burnt_Orange",
+			"BallastKG": 0
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Name": "gunciz",
+				"Team": "",
+				"Guid": "76561198045810346"
+			},
+			"Model": "ks_audi_sport_quattro",
+			"Skin": "00_tornado_red_rings",
+			"BallastKG": 20
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Name": "Sharkeh",
+				"Team": "",
+				"Guid": "76561197969361530"
+			},
+			"Model": "bmw_m3_e30_s1",
+			"Skin": "Burnt_Orange",
+			"BallastKG": 0
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Name": "NCWG4",
+				"Team": "",
+				"Guid": "76561198092130743"
+			},
+			"Model": "bmw_m3_e30_s1",
+			"Skin": "Diamond_Black_metallic",
+			"BallastKG": 0
+		},
+		{
+			"CarId": 13,
+			"Driver": {
+				"Name": "Shadowwulf",
+				"Team": "",
+				"Guid": "76561197965138382"
+			},
+			"Model": "bmw_m3_e30_s1",
+			"Skin": "Germany",
+			"BallastKG": 0
+		},
+		{
+			"CarId": 14,
+			"Driver": {
+				"Name": "Powers2440",
+				"Team": "",
+				"Guid": "76561198032783898"
+			},
+			"Model": "ks_audi_sport_quattro",
+			"Skin": "08_malachite_green_rings",
+			"BallastKG": 20
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30_s1",
+			"BestLap": 107015,
+			"TotalTime": 1304246,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 7,
+			"CarModel": "ks_audi_sport_quattro",
+			"BestLap": 107347,
+			"TotalTime": 1304397,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 10,
+			"CarModel": "ks_audi_sport_quattro",
+			"BestLap": 106904,
+			"TotalTime": 1309453,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_s1",
+			"BestLap": 109322,
+			"TotalTime": 1332807,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NCWG4",
+			"DriverGuid": "76561198092130743",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30_s1",
+			"BestLap": 110036,
+			"TotalTime": 1342938,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Th3HolyMoose",
+			"DriverGuid": "76561198029842017",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30_s1",
+			"BestLap": 109733,
+			"TotalTime": 1354012,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Noah",
+			"DriverGuid": "76561198042375839",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_s1",
+			"BestLap": 108528,
+			"TotalTime": 1354667,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_s1",
+			"BestLap": 109496,
+			"TotalTime": 1357019,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_s1",
+			"BestLap": 110636,
+			"TotalTime": 1365413,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 3,
+			"CarModel": "ks_audi_sport_quattro",
+			"BestLap": 110049,
+			"TotalTime": 1369749,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30_s1",
+			"BestLap": 114791,
+			"TotalTime": 1395909,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Shadowwulf",
+			"DriverGuid": "76561197965138382",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30_s1",
+			"BestLap": 117334,
+			"TotalTime": 1451666,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "marzen224",
+			"DriverGuid": "76561198062409652",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_s1",
+			"BestLap": 114060,
+			"TotalTime": 1471097,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "lesscubes",
+			"DriverGuid": "76561198002354974",
+			"CarId": 6,
+			"CarModel": "bmw_m3_e30_s1",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Powers2440",
+			"DriverGuid": "76561198032783898",
+			"CarId": 14,
+			"CarModel": "ks_audi_sport_quattro",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 20
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 10,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2488136,
+			"LapTime": 114971,
+			"Sectors": [
+				58830,
+				56141
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2488676,
+			"LapTime": 115534,
+			"Sectors": [
+				59288,
+				56246
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 7,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2489176,
+			"LapTime": 116103,
+			"Sectors": [
+				59947,
+				56156
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2491622,
+			"LapTime": 118471,
+			"Sectors": [
+				61312,
+				57159
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Th3HolyMoose",
+			"DriverGuid": "76561198029842017",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2494759,
+			"LapTime": 121617,
+			"Sectors": [
+				64160,
+				57457
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 3,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2495977,
+			"LapTime": 122876,
+			"Sectors": [
+				63612,
+				59264
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "NCWG4",
+			"DriverGuid": "76561198092130743",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2496321,
+			"LapTime": 123175,
+			"Sectors": [
+				64891,
+				58284
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2498712,
+			"LapTime": 125604,
+			"Sectors": [
+				65313,
+				60291
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2498993,
+			"LapTime": 125845,
+			"Sectors": [
+				68146,
+				57699
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Noah",
+			"DriverGuid": "76561198042375839",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2500643,
+			"LapTime": 127549,
+			"Sectors": [
+				68748,
+				58801
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2504040,
+			"LapTime": 130939,
+			"Sectors": [
+				70293,
+				60646
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Shadowwulf",
+			"DriverGuid": "76561197965138382",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2510341,
+			"LapTime": 137234,
+			"Sectors": [
+				76025,
+				61209
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "marzen224",
+			"DriverGuid": "76561198062409652",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2511166,
+			"LapTime": 138025,
+			"Sectors": [
+				68496,
+				69529
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 10,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2595037,
+			"LapTime": 106904,
+			"Sectors": [
+				51501,
+				55403
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2596662,
+			"LapTime": 107983,
+			"Sectors": [
+				51998,
+				55985
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 7,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2597780,
+			"LapTime": 108603,
+			"Sectors": [
+				53018,
+				55585
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2601699,
+			"LapTime": 110076,
+			"Sectors": [
+				52961,
+				57115
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Th3HolyMoose",
+			"DriverGuid": "76561198029842017",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2604680,
+			"LapTime": 109926,
+			"Sectors": [
+				52676,
+				57250
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 3,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2606389,
+			"LapTime": 110410,
+			"Sectors": [
+				52985,
+				57425
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "NCWG4",
+			"DriverGuid": "76561198092130743",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2608198,
+			"LapTime": 111862,
+			"Sectors": [
+				54222,
+				57640
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2614041,
+			"LapTime": 115326,
+			"Sectors": [
+				55381,
+				59945
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2614879,
+			"LapTime": 115890,
+			"Sectors": [
+				58780,
+				57110
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Noah",
+			"DriverGuid": "76561198042375839",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2615769,
+			"LapTime": 115133,
+			"Sectors": [
+				56957,
+				58176
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2617410,
+			"LapTime": 113369,
+			"Sectors": [
+				52718,
+				60651
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "marzen224",
+			"DriverGuid": "76561198062409652",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2625466,
+			"LapTime": 114305,
+			"Sectors": [
+				55747,
+				58558
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Shadowwulf",
+			"DriverGuid": "76561197965138382",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2630608,
+			"LapTime": 120269,
+			"Sectors": [
+				59744,
+				60525
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 10,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2702673,
+			"LapTime": 107629,
+			"Sectors": [
+				51870,
+				55759
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2703679,
+			"LapTime": 107015,
+			"Sectors": [
+				51454,
+				55561
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 7,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2706770,
+			"LapTime": 108990,
+			"Sectors": [
+				52420,
+				56570
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2713013,
+			"LapTime": 111312,
+			"Sectors": [
+				52442,
+				58870
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Th3HolyMoose",
+			"DriverGuid": "76561198029842017",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2714793,
+			"LapTime": 110119,
+			"Sectors": [
+				52946,
+				57173
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 3,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2716638,
+			"LapTime": 110251,
+			"Sectors": [
+				53106,
+				57145
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "NCWG4",
+			"DriverGuid": "76561198092130743",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2719408,
+			"LapTime": 111228,
+			"Sectors": [
+				53601,
+				57627
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2725763,
+			"LapTime": 110888,
+			"Sectors": [
+				52605,
+				58283
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Noah",
+			"DriverGuid": "76561198042375839",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2727390,
+			"LapTime": 111625,
+			"Sectors": [
+				53571,
+				58054
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2729206,
+			"LapTime": 111796,
+			"Sectors": [
+				53409,
+				58387
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2729351,
+			"LapTime": 115312,
+			"Sectors": [
+				55367,
+				59945
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "marzen224",
+			"DriverGuid": "76561198062409652",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2739523,
+			"LapTime": 114060,
+			"Sectors": [
+				54835,
+				59225
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Shadowwulf",
+			"DriverGuid": "76561197965138382",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2748896,
+			"LapTime": 118290,
+			"Sectors": [
+				55834,
+				62456
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 10,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2810078,
+			"LapTime": 107420,
+			"Sectors": [
+				51243,
+				56177
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2811576,
+			"LapTime": 107895,
+			"Sectors": [
+				51087,
+				56808
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 7,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2815419,
+			"LapTime": 108648,
+			"Sectors": [
+				52137,
+				56511
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2822908,
+			"LapTime": 109894,
+			"Sectors": [
+				52829,
+				57065
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Th3HolyMoose",
+			"DriverGuid": "76561198029842017",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2824695,
+			"LapTime": 109909,
+			"Sectors": [
+				52817,
+				57092
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 3,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2826691,
+			"LapTime": 110049,
+			"Sectors": [
+				53137,
+				56912
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "NCWG4",
+			"DriverGuid": "76561198092130743",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2829951,
+			"LapTime": 110546,
+			"Sectors": [
+				52987,
+				57559
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2835257,
+			"LapTime": 109496,
+			"Sectors": [
+				52504,
+				56992
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Noah",
+			"DriverGuid": "76561198042375839",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2836222,
+			"LapTime": 108838,
+			"Sectors": [
+				52151,
+				56687
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2840911,
+			"LapTime": 111704,
+			"Sectors": [
+				53537,
+				58167
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2844306,
+			"LapTime": 114954,
+			"Sectors": [
+				55459,
+				59495
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "marzen224",
+			"DriverGuid": "76561198062409652",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2867692,
+			"LapTime": 128173,
+			"Sectors": [
+				59426,
+				68747
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Shadowwulf",
+			"DriverGuid": "76561197965138382",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2868796,
+			"LapTime": 119902,
+			"Sectors": [
+				57258,
+				62644
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 10,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2917587,
+			"LapTime": 107516,
+			"Sectors": [
+				51991,
+				55525
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2918834,
+			"LapTime": 107253,
+			"Sectors": [
+				51520,
+				55733
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 7,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2922765,
+			"LapTime": 107347,
+			"Sectors": [
+				51687,
+				55660
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2933689,
+			"LapTime": 110778,
+			"Sectors": [
+				53434,
+				57344
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Th3HolyMoose",
+			"DriverGuid": "76561198029842017",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2938230,
+			"LapTime": 113541,
+			"Sectors": [
+				53835,
+				59706
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 3,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 2939334,
+			"LapTime": 112644,
+			"Sectors": [
+				53217,
+				59427
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "NCWG4",
+			"DriverGuid": "76561198092130743",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2940948,
+			"LapTime": 110999,
+			"Sectors": [
+				53138,
+				57861
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Noah",
+			"DriverGuid": "76561198042375839",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2947428,
+			"LapTime": 111210,
+			"Sectors": [
+				52687,
+				58523
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2949022,
+			"LapTime": 113772,
+			"Sectors": [
+				53017,
+				60755
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2952664,
+			"LapTime": 111756,
+			"Sectors": [
+				53769,
+				57987
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2959662,
+			"LapTime": 115352,
+			"Sectors": [
+				55746,
+				59606
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Shadowwulf",
+			"DriverGuid": "76561197965138382",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2986658,
+			"LapTime": 117865,
+			"Sectors": [
+				56004,
+				61861
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "marzen224",
+			"DriverGuid": "76561198062409652",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 2988852,
+			"LapTime": 121164,
+			"Sectors": [
+				54208,
+				66956
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 10,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3025052,
+			"LapTime": 107471,
+			"Sectors": [
+				51743,
+				55728
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3025952,
+			"LapTime": 107117,
+			"Sectors": [
+				51475,
+				55642
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 7,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3030701,
+			"LapTime": 107938,
+			"Sectors": [
+				51909,
+				56029
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3043011,
+			"LapTime": 109322,
+			"Sectors": [
+				52753,
+				56569
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Th3HolyMoose",
+			"DriverGuid": "76561198029842017",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3049825,
+			"LapTime": 111600,
+			"Sectors": [
+				53846,
+				57754
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NCWG4",
+			"DriverGuid": "76561198092130743",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3050982,
+			"LapTime": 110036,
+			"Sectors": [
+				52616,
+				57420
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 3,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3053642,
+			"LapTime": 114308,
+			"Sectors": [
+				53437,
+				60871
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Noah",
+			"DriverGuid": "76561198042375839",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3056833,
+			"LapTime": 109412,
+			"Sectors": [
+				52334,
+				57078
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3059972,
+			"LapTime": 110952,
+			"Sectors": [
+				53028,
+				57924
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3063887,
+			"LapTime": 111222,
+			"Sectors": [
+				53086,
+				58136
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3075737,
+			"LapTime": 116080,
+			"Sectors": [
+				55915,
+				60165
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Shadowwulf",
+			"DriverGuid": "76561197965138382",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3105731,
+			"LapTime": 119075,
+			"Sectors": [
+				57097,
+				61978
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "marzen224",
+			"DriverGuid": "76561198062409652",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3108434,
+			"LapTime": 119587,
+			"Sectors": [
+				60817,
+				58770
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 10,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3132948,
+			"LapTime": 107903,
+			"Sectors": [
+				51869,
+				56034
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3133329,
+			"LapTime": 107373,
+			"Sectors": [
+				51676,
+				55697
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 7,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3138316,
+			"LapTime": 107618,
+			"Sectors": [
+				51854,
+				55764
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3153302,
+			"LapTime": 110289,
+			"Sectors": [
+				53107,
+				57182
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NCWG4",
+			"DriverGuid": "76561198092130743",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3161576,
+			"LapTime": 110595,
+			"Sectors": [
+				52909,
+				57686
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Th3HolyMoose",
+			"DriverGuid": "76561198029842017",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3165553,
+			"LapTime": 115735,
+			"Sectors": [
+				58706,
+				57029
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 3,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3167853,
+			"LapTime": 114212,
+			"Sectors": [
+				56716,
+				57496
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Noah",
+			"DriverGuid": "76561198042375839",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3168457,
+			"LapTime": 111629,
+			"Sectors": [
+				53930,
+				57699
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3171698,
+			"LapTime": 111730,
+			"Sectors": [
+				53041,
+				58689
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3176012,
+			"LapTime": 112113,
+			"Sectors": [
+				54261,
+				57852
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3190526,
+			"LapTime": 114791,
+			"Sectors": [
+				55337,
+				59454
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "marzen224",
+			"DriverGuid": "76561198062409652",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3232763,
+			"LapTime": 124332,
+			"Sectors": [
+				65390,
+				58942
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Shadowwulf",
+			"DriverGuid": "76561197965138382",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3235720,
+			"LapTime": 129990,
+			"Sectors": [
+				69253,
+				60737
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3241593,
+			"LapTime": 108261,
+			"Sectors": [
+				51561,
+				56700
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 10,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3241916,
+			"LapTime": 108970,
+			"Sectors": [
+				52612,
+				56358
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 7,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3245962,
+			"LapTime": 107647,
+			"Sectors": [
+				52139,
+				55508
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3263911,
+			"LapTime": 110609,
+			"Sectors": [
+				53113,
+				57496
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NCWG4",
+			"DriverGuid": "76561198092130743",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3272033,
+			"LapTime": 110439,
+			"Sectors": [
+				52915,
+				57524
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Th3HolyMoose",
+			"DriverGuid": "76561198029842017",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3276566,
+			"LapTime": 111007,
+			"Sectors": [
+				53609,
+				57398
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Noah",
+			"DriverGuid": "76561198042375839",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3280068,
+			"LapTime": 111616,
+			"Sectors": [
+				53039,
+				58577
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3283363,
+			"LapTime": 111669,
+			"Sectors": [
+				53074,
+				58595
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 3,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3286963,
+			"LapTime": 119109,
+			"Sectors": [
+				53264,
+				65845
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3287896,
+			"LapTime": 111888,
+			"Sectors": [
+				53302,
+				58586
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3305867,
+			"LapTime": 115329,
+			"Sectors": [
+				55645,
+				59684
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 10,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3351610,
+			"LapTime": 109698,
+			"Sectors": [
+				52682,
+				57016
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3352460,
+			"LapTime": 110862,
+			"Sectors": [
+				53190,
+				57672
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Shadowwulf",
+			"DriverGuid": "76561197965138382",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3353325,
+			"LapTime": 117607,
+			"Sectors": [
+				56619,
+				60988
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 7,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3353914,
+			"LapTime": 107952,
+			"Sectors": [
+				51886,
+				56066
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "marzen224",
+			"DriverGuid": "76561198062409652",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3358676,
+			"LapTime": 125914,
+			"Sectors": [
+				67022,
+				58892
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3375528,
+			"LapTime": 111616,
+			"Sectors": [
+				53543,
+				58073
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NCWG4",
+			"DriverGuid": "76561198092130743",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3382397,
+			"LapTime": 110384,
+			"Sectors": [
+				52595,
+				57789
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Th3HolyMoose",
+			"DriverGuid": "76561198029842017",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3386279,
+			"LapTime": 109733,
+			"Sectors": [
+				52718,
+				57015
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Noah",
+			"DriverGuid": "76561198042375839",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3388592,
+			"LapTime": 108528,
+			"Sectors": [
+				51855,
+				56673
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3394542,
+			"LapTime": 111185,
+			"Sectors": [
+				53248,
+				57937
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3399059,
+			"LapTime": 111172,
+			"Sectors": [
+				53244,
+				57928
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 3,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3400164,
+			"LapTime": 113201,
+			"Sectors": [
+				53653,
+				59548
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3421695,
+			"LapTime": 115838,
+			"Sectors": [
+				56106,
+				59732
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3460271,
+			"LapTime": 107810,
+			"Sectors": [
+				51578,
+				56232
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 7,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3461785,
+			"LapTime": 107873,
+			"Sectors": [
+				52217,
+				55656
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 10,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3467603,
+			"LapTime": 116000,
+			"Sectors": [
+				51578,
+				64422
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Shadowwulf",
+			"DriverGuid": "76561197965138382",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3470657,
+			"LapTime": 117334,
+			"Sectors": [
+				56381,
+				60953
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "marzen224",
+			"DriverGuid": "76561198062409652",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3475714,
+			"LapTime": 117046,
+			"Sectors": [
+				58757,
+				58289
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3485221,
+			"LapTime": 109693,
+			"Sectors": [
+				52795,
+				56898
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NCWG4",
+			"DriverGuid": "76561198092130743",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3493872,
+			"LapTime": 111432,
+			"Sectors": [
+				53265,
+				58167
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Th3HolyMoose",
+			"DriverGuid": "76561198029842017",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3497147,
+			"LapTime": 110874,
+			"Sectors": [
+				52796,
+				58078
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Noah",
+			"DriverGuid": "76561198042375839",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3497677,
+			"LapTime": 109089,
+			"Sectors": [
+				52092,
+				56997
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3506299,
+			"LapTime": 111760,
+			"Sectors": [
+				53040,
+				58720
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3515326,
+			"LapTime": 116267,
+			"Sectors": [
+				53339,
+				62928
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 3,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3520358,
+			"LapTime": 120193,
+			"Sectors": [
+				52949,
+				67244
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3536799,
+			"LapTime": 115108,
+			"Sectors": [
+				55519,
+				59589
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3568104,
+			"LapTime": 107831,
+			"Sectors": [
+				51721,
+				56110
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 7,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3569183,
+			"LapTime": 107399,
+			"Sectors": [
+				51770,
+				55629
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 10,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3574847,
+			"LapTime": 107247,
+			"Sectors": [
+				51595,
+				55652
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Shadowwulf",
+			"DriverGuid": "76561197965138382",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3588088,
+			"LapTime": 117433,
+			"Sectors": [
+				56854,
+				60579
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "marzen224",
+			"DriverGuid": "76561198062409652",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3589775,
+			"LapTime": 114063,
+			"Sectors": [
+				54424,
+				59639
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3594942,
+			"LapTime": 109720,
+			"Sectors": [
+				52741,
+				56979
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NCWG4",
+			"DriverGuid": "76561198092130743",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3604349,
+			"LapTime": 110524,
+			"Sectors": [
+				53145,
+				57379
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Th3HolyMoose",
+			"DriverGuid": "76561198029842017",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3610767,
+			"LapTime": 113625,
+			"Sectors": [
+				54544,
+				59081
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Noah",
+			"DriverGuid": "76561198042375839",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3611048,
+			"LapTime": 113377,
+			"Sectors": [
+				54414,
+				58963
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3618625,
+			"LapTime": 112330,
+			"Sectors": [
+				53663,
+				58667
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3627881,
+			"LapTime": 112557,
+			"Sectors": [
+				54097,
+				58460
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 3,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3630985,
+			"LapTime": 110625,
+			"Sectors": [
+				53488,
+				57137
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3653522,
+			"LapTime": 116722,
+			"Sectors": [
+				56161,
+				60561
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 11,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3677384,
+			"LapTime": 109276,
+			"Sectors": [
+				51280,
+				57996
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 7,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3677474,
+			"LapTime": 108291,
+			"Sectors": [
+				51563,
+				56728
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 10,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3682611,
+			"LapTime": 107766,
+			"Sectors": [
+				51677,
+				56089
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3705953,
+			"LapTime": 111011,
+			"Sectors": [
+				53312,
+				57699
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Shadowwulf",
+			"DriverGuid": "76561197965138382",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3707343,
+			"LapTime": 119179,
+			"Sectors": [
+				58015,
+				61164
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "NCWG4",
+			"DriverGuid": "76561198092130743",
+			"CarId": 12,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3716087,
+			"LapTime": 111736,
+			"Sectors": [
+				53722,
+				58014
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "marzen224",
+			"DriverGuid": "76561198062409652",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3722528,
+			"LapTime": 132758,
+			"Sectors": [
+				63827,
+				68931
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Th3HolyMoose",
+			"DriverGuid": "76561198029842017",
+			"CarId": 8,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3727164,
+			"LapTime": 116405,
+			"Sectors": [
+				57861,
+				58544
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Noah",
+			"DriverGuid": "76561198042375839",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3727770,
+			"LapTime": 116727,
+			"Sectors": [
+				57628,
+				59099
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3730177,
+			"LapTime": 111556,
+			"Sectors": [
+				53411,
+				58145
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3738519,
+			"LapTime": 110636,
+			"Sectors": [
+				52834,
+				57802
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 3,
+			"CarModel": "ks_audi_sport_quattro",
+			"Timestamp": 3742851,
+			"LapTime": 111869,
+			"Sectors": [
+				53010,
+				58859
+			],
+			"Cuts": 0,
+			"BallastKG": 20
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 9,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3769020,
+			"LapTime": 115502,
+			"Sectors": [
+				55554,
+				59948
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "Shadowwulf",
+			"DriverGuid": "76561197965138382",
+			"CarId": 13,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3824781,
+			"LapTime": 117518,
+			"Sectors": [
+				56800,
+				60718
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		},
+		{
+			"DriverName": "marzen224",
+			"DriverGuid": "76561198062409652",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_s1",
+			"Timestamp": 3844248,
+			"LapTime": 121727,
+			"Sectors": [
+				56383,
+				65344
+			],
+			"Cuts": 0,
+			"BallastKG": 0
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "25",
+				"Team": "",
+				"Guid": "76561197973378378"
+			},
+			"ImpactSpeed": 2.0042276,
+			"WorldPosition": {
+				"X": -10.376926,
+				"Y": 57.4758,
+				"Z": -243.97572
+			},
+			"RelPosition": {
+				"X": -0.8589493,
+				"Y": 0.01603889,
+				"Z": 1.5985347
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "25",
+				"Team": "",
+				"Guid": "76561197973378378"
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 3.0743225,
+			"WorldPosition": {
+				"X": -10.214927,
+				"Y": 57.54327,
+				"Z": -246.07675
+			},
+			"RelPosition": {
+				"X": 0.7602046,
+				"Y": -0.01347702,
+				"Z": -2.1135347
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 5,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 20.31285,
+			"WorldPosition": {
+				"X": -14.077756,
+				"Y": 55.247383,
+				"Z": -188.61095
+			},
+			"RelPosition": {
+				"X": -0.77787536,
+				"Y": -0.33902904,
+				"Z": -0.39840287
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 0,
+			"Driver": {
+				"Name": "Noah",
+				"Team": "",
+				"Guid": "76561198042375839"
+			},
+			"OtherCarId": 14,
+			"OtherDriver": {
+				"Name": "Powers2440",
+				"Team": "",
+				"Guid": "76561198032783898"
+			},
+			"ImpactSpeed": 95.481285,
+			"WorldPosition": {
+				"X": -52.253803,
+				"Y": 51.296574,
+				"Z": -123.60825
+			},
+			"RelPosition": {
+				"X": -0.8107473,
+				"Y": 0.009189412,
+				"Z": 1.5878428
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 5,
+			"OtherDriver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"ImpactSpeed": 12.236814,
+			"WorldPosition": {
+				"X": -13.655837,
+				"Y": 55.688286,
+				"Z": -192.25443
+			},
+			"RelPosition": {
+				"X": 0.8551187,
+				"Y": -0.01257018,
+				"Z": 1.5969533
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "25",
+				"Team": "",
+				"Guid": "76561197973378378"
+			},
+			"ImpactSpeed": 31.640944,
+			"WorldPosition": {
+				"X": -15.951526,
+				"Y": 55.784218,
+				"Z": -187.61649
+			},
+			"RelPosition": {
+				"X": -0.7211662,
+				"Y": 0.3776784,
+				"Z": 1.0201366
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 8,
+			"OtherDriver": {
+				"Name": "Th3HolyMoose",
+				"Team": "",
+				"Guid": "76561198029842017"
+			},
+			"ImpactSpeed": 6.42831,
+			"WorldPosition": {
+				"X": -32.906513,
+				"Y": 52.68701,
+				"Z": -134.052
+			},
+			"RelPosition": {
+				"X": -1.6450882e-05,
+				"Y": -0.061406255,
+				"Z": 2.0601861
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "25",
+				"Team": "",
+				"Guid": "76561197973378378"
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 1.9154143,
+			"WorldPosition": {
+				"X": -15.58422,
+				"Y": 55.227184,
+				"Z": -188.64212
+			},
+			"RelPosition": {
+				"X": 0.8024614,
+				"Y": -0.33361584,
+				"Z": -0.91476214
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 8,
+			"Driver": {
+				"Name": "Th3HolyMoose",
+				"Team": "",
+				"Guid": "76561198029842017"
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 10.896879,
+			"WorldPosition": {
+				"X": -32.750347,
+				"Y": 52.67353,
+				"Z": -133.91711
+			},
+			"RelPosition": {
+				"X": -0.6756109,
+				"Y": -0.10942452,
+				"Z": -2.2730696
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 8,
+			"Driver": {
+				"Name": "Th3HolyMoose",
+				"Team": "",
+				"Guid": "76561198029842017"
+			},
+			"OtherCarId": 12,
+			"OtherDriver": {
+				"Name": "NCWG4",
+				"Team": "",
+				"Guid": "76561198092130743"
+			},
+			"ImpactSpeed": 1.3858368,
+			"WorldPosition": {
+				"X": -64.29972,
+				"Y": 51.046356,
+				"Z": -125.54797
+			},
+			"RelPosition": {
+				"X": 0.8589491,
+				"Y": 0.016040478,
+				"Z": 1.5985469
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 5,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"OtherCarId": 13,
+			"OtherDriver": {
+				"Name": "Shadowwulf",
+				"Team": "",
+				"Guid": "76561197965138382"
+			},
+			"ImpactSpeed": 19.305954,
+			"WorldPosition": {
+				"X": -38.155586,
+				"Y": 52.179504,
+				"Z": -122.74638
+			},
+			"RelPosition": {
+				"X": -0.85895145,
+				"Y": 0.016037734,
+				"Z": 1.5985428
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Shadowwulf",
+				"Team": "",
+				"Guid": "76561197965138382"
+			},
+			"OtherCarId": 5,
+			"OtherDriver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"ImpactSpeed": 7.7437963,
+			"WorldPosition": {
+				"X": -40.19457,
+				"Y": 52.216007,
+				"Z": -121.62996
+			},
+			"RelPosition": {
+				"X": 0.78269386,
+				"Y": 0.24996072,
+				"Z": -0.02725494
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 14,
+			"Driver": {
+				"Name": "Powers2440",
+				"Team": "",
+				"Guid": "76561198032783898"
+			},
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Name": "Noah",
+				"Team": "",
+				"Guid": "76561198042375839"
+			},
+			"ImpactSpeed": 37.199448,
+			"WorldPosition": {
+				"X": -52.024723,
+				"Y": 51.3771,
+				"Z": -123.228836
+			},
+			"RelPosition": {
+				"X": 0.89404655,
+				"Y": 0.15608148,
+				"Z": -1.5527449
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 14,
+			"Driver": {
+				"Name": "Powers2440",
+				"Team": "",
+				"Guid": "76561198032783898"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 37.54654,
+			"WorldPosition": {
+				"X": -83.53803,
+				"Y": 51.350605,
+				"Z": -95.845985
+			},
+			"RelPosition": {
+				"X": 0.90179235,
+				"Y": -0.2735326,
+				"Z": 1.5131143
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 12,
+			"Driver": {
+				"Name": "NCWG4",
+				"Team": "",
+				"Guid": "76561198092130743"
+			},
+			"OtherCarId": 8,
+			"OtherDriver": {
+				"Name": "Th3HolyMoose",
+				"Team": "",
+				"Guid": "76561198029842017"
+			},
+			"ImpactSpeed": 16.875978,
+			"WorldPosition": {
+				"X": -63.64656,
+				"Y": 51.065193,
+				"Z": -124.83035
+			},
+			"RelPosition": {
+				"X": -0.8249476,
+				"Y": -0.024615,
+				"Z": -1.7051542
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 5,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"OtherCarId": 6,
+			"OtherDriver": {
+				"Name": "lesscubes",
+				"Team": "",
+				"Guid": "76561198002354974"
+			},
+			"ImpactSpeed": 49.681393,
+			"WorldPosition": {
+				"X": -137.39137,
+				"Y": 55.688694,
+				"Z": -263.99478
+			},
+			"RelPosition": {
+				"X": 0.7455939,
+				"Y": -0.07701623,
+				"Z": 1.9334216
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 12,
+			"Driver": {
+				"Name": "NCWG4",
+				"Team": "",
+				"Guid": "76561198092130743"
+			},
+			"OtherCarId": 8,
+			"OtherDriver": {
+				"Name": "Th3HolyMoose",
+				"Team": "",
+				"Guid": "76561198029842017"
+			},
+			"ImpactSpeed": 11.904482,
+			"WorldPosition": {
+				"X": -275.53665,
+				"Y": 48.603573,
+				"Z": -119.95637
+			},
+			"RelPosition": {
+				"X": 0.856545,
+				"Y": 0.016128654,
+				"Z": 1.5987848
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "marzen224",
+				"Team": "",
+				"Guid": "76561198062409652"
+			},
+			"OtherCarId": 5,
+			"OtherDriver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"ImpactSpeed": 10.956432,
+			"WorldPosition": {
+				"X": -275.71744,
+				"Y": 48.684444,
+				"Z": -133.47595
+			},
+			"RelPosition": {
+				"X": -0.19366491,
+				"Y": -0.076748535,
+				"Z": 2.0233479
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 5,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "marzen224",
+				"Team": "",
+				"Guid": "76561198062409652"
+			},
+			"ImpactSpeed": 19.676483,
+			"WorldPosition": {
+				"X": -275.82806,
+				"Y": 48.68191,
+				"Z": -133.71492
+			},
+			"RelPosition": {
+				"X": 0.7222725,
+				"Y": -0.15128459,
+				"Z": -2.2551663
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Shadowwulf",
+				"Team": "",
+				"Guid": "76561197965138382"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 27.487978,
+			"WorldPosition": {
+				"X": -121.57362,
+				"Y": 50.059635,
+				"Z": -57.32239
+			},
+			"RelPosition": {
+				"X": -0.7222462,
+				"Y": -0.10943815,
+				"Z": -2.2712548
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 0,
+			"Driver": {
+				"Name": "Noah",
+				"Team": "",
+				"Guid": "76561198042375839"
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "marzen224",
+				"Team": "",
+				"Guid": "76561198062409652"
+			},
+			"ImpactSpeed": 7.5795283,
+			"WorldPosition": {
+				"X": -25.063112,
+				"Y": 45.94298,
+				"Z": 205.02513
+			},
+			"RelPosition": {
+				"X": 0.7455805,
+				"Y": -0.076517105,
+				"Z": 1.9334712
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "marzen224",
+				"Team": "",
+				"Guid": "76561198062409652"
+			},
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Name": "Noah",
+				"Team": "",
+				"Guid": "76561198042375839"
+			},
+			"ImpactSpeed": 15.32884,
+			"WorldPosition": {
+				"X": -4.877098,
+				"Y": 45.12977,
+				"Z": 216.03311
+			},
+			"RelPosition": {
+				"X": -0.8365343,
+				"Y": -0.0717953,
+				"Z": -1.1163243
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 4,
+			"Driver": {
+				"Name": "marzen224",
+				"Team": "",
+				"Guid": "76561198062409652"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 10.038336,
+			"WorldPosition": {
+				"X": -65.74404,
+				"Y": 47.444965,
+				"Z": 183.31638
+			},
+			"RelPosition": {
+				"X": 0.85894376,
+				"Y": 0.016036646,
+				"Z": 1.5985426
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 3,
+			"Driver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 37.266872,
+			"WorldPosition": {
+				"X": -48.850502,
+				"Y": 64.232376,
+				"Z": -1010.09204
+			},
+			"RelPosition": {
+				"X": -0.78754395,
+				"Y": -0.2728664,
+				"Z": 1.6416601
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Shadowwulf",
+				"Team": "",
+				"Guid": "76561197965138382"
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "marzen224",
+				"Team": "",
+				"Guid": "76561198062409652"
+			},
+			"ImpactSpeed": 5.743467,
+			"WorldPosition": {
+				"X": -17.98834,
+				"Y": 64.81566,
+				"Z": -1000.4583
+			},
+			"RelPosition": {
+				"X": 0.7853037,
+				"Y": -0.2656891,
+				"Z": -1.9334955
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "marzen224",
+				"Team": "",
+				"Guid": "76561198062409652"
+			},
+			"OtherCarId": 13,
+			"OtherDriver": {
+				"Name": "Shadowwulf",
+				"Team": "",
+				"Guid": "76561197965138382"
+			},
+			"ImpactSpeed": 15.774497,
+			"WorldPosition": {
+				"X": -18.883284,
+				"Y": 65.0745,
+				"Z": -1001.6512
+			},
+			"RelPosition": {
+				"X": -0.7455734,
+				"Y": -0.07689609,
+				"Z": 1.9333713
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 5,
+			"OtherDriver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"ImpactSpeed": 15.04146,
+			"WorldPosition": {
+				"X": -147.39687,
+				"Y": 55.713684,
+				"Z": -265.79178
+			},
+			"RelPosition": {
+				"X": 0.5346085,
+				"Y": -0.109369725,
+				"Z": -2.2785385
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 5,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 10.594826,
+			"WorldPosition": {
+				"X": -147.89946,
+				"Y": 55.720028,
+				"Z": -265.82205
+			},
+			"RelPosition": {
+				"X": -0.0008240044,
+				"Y": -0.06599469,
+				"Z": 2.0566812
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 5,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Name": "Noah",
+				"Team": "",
+				"Guid": "76561198042375839"
+			},
+			"ImpactSpeed": 15.711906,
+			"WorldPosition": {
+				"X": -176.54784,
+				"Y": 49.31585,
+				"Z": -119.38113
+			},
+			"RelPosition": {
+				"X": -0.8319494,
+				"Y": -0.10409752,
+				"Z": -1.4041574
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 0,
+			"Driver": {
+				"Name": "Noah",
+				"Team": "",
+				"Guid": "76561198042375839"
+			},
+			"OtherCarId": 5,
+			"OtherDriver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"ImpactSpeed": 4.949972,
+			"WorldPosition": {
+				"X": -176.30249,
+				"Y": 49.34722,
+				"Z": -119.32887
+			},
+			"RelPosition": {
+				"X": 0.85894895,
+				"Y": 0.016038366,
+				"Z": 1.5985411
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 4,
+			"Driver": {
+				"Name": "marzen224",
+				"Team": "",
+				"Guid": "76561198062409652"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 57.62997,
+			"WorldPosition": {
+				"X": -81.81148,
+				"Y": 51.78224,
+				"Z": -92.33774
+			},
+			"RelPosition": {
+				"X": 0.8416982,
+				"Y": 0.2436114,
+				"Z": -1.8089631
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 13,
+			"Driver": {
+				"Name": "Shadowwulf",
+				"Team": "",
+				"Guid": "76561197965138382"
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "marzen224",
+				"Team": "",
+				"Guid": "76561198062409652"
+			},
+			"ImpactSpeed": 16.158455,
+			"WorldPosition": {
+				"X": -56.68335,
+				"Y": 64.3383,
+				"Z": -1015.5696
+			},
+			"RelPosition": {
+				"X": -0.8546539,
+				"Y": -0.08504847,
+				"Z": 1.5958668
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "marzen224",
+				"Team": "",
+				"Guid": "76561198062409652"
+			},
+			"OtherCarId": 13,
+			"OtherDriver": {
+				"Name": "Shadowwulf",
+				"Team": "",
+				"Guid": "76561197965138382"
+			},
+			"ImpactSpeed": 7.635597,
+			"WorldPosition": {
+				"X": -53.791767,
+				"Y": 64.60954,
+				"Z": -1015.3608
+			},
+			"RelPosition": {
+				"X": 0.83771133,
+				"Y": 0.24282686,
+				"Z": -1.8090552
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "gunciz",
+				"Team": "",
+				"Guid": "76561198045810346"
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Sharkeh",
+				"Team": "",
+				"Guid": "76561197969361530"
+			},
+			"ImpactSpeed": 4.3351016,
+			"WorldPosition": {
+				"X": 38.758995,
+				"Y": 47.82686,
+				"Z": 179.71115
+			},
+			"RelPosition": {
+				"X": -0.30463716,
+				"Y": -0.12532812,
+				"Z": -2.3206944
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "gunciz",
+				"Team": "",
+				"Guid": "76561198045810346"
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Sharkeh",
+				"Team": "",
+				"Guid": "76561197969361530"
+			},
+			"ImpactSpeed": 11.37045,
+			"WorldPosition": {
+				"X": -53.68699,
+				"Y": 47.363167,
+				"Z": 173.47192
+			},
+			"RelPosition": {
+				"X": -0.74611723,
+				"Y": -0.07481602,
+				"Z": -2.2935357
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Sharkeh",
+				"Team": "",
+				"Guid": "76561197969361530"
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "gunciz",
+				"Team": "",
+				"Guid": "76561198045810346"
+			},
+			"ImpactSpeed": 10.513435,
+			"WorldPosition": {
+				"X": -53.747196,
+				"Y": 47.352432,
+				"Z": 173.17584
+			},
+			"RelPosition": {
+				"X": 0.46878213,
+				"Y": -0.07677665,
+				"Z": 1.9799755
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 10,
+			"Driver": {
+				"Name": "gunciz",
+				"Team": "",
+				"Guid": "76561198045810346"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 57.497414,
+			"WorldPosition": {
+				"X": -212.30525,
+				"Y": 59.284363,
+				"Z": -879.9141
+			},
+			"RelPosition": {
+				"X": -0.6796726,
+				"Y": -0.27222532,
+				"Z": 1.7628853
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 3,
+			"Driver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "25",
+				"Team": "",
+				"Guid": "76561197973378378"
+			},
+			"ImpactSpeed": 4.303611,
+			"WorldPosition": {
+				"X": -191.03265,
+				"Y": 51.33836,
+				"Z": 22.336906
+			},
+			"RelPosition": {
+				"X": -0.9009924,
+				"Y": 0.24426676,
+				"Z": -1.1135647
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "25",
+				"Team": "",
+				"Guid": "76561197973378378"
+			},
+			"OtherCarId": 3,
+			"OtherDriver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"ImpactSpeed": 4.0878215,
+			"WorldPosition": {
+				"X": -192.4216,
+				"Y": 51.207375,
+				"Z": 22.897623
+			},
+			"RelPosition": {
+				"X": 0.85895073,
+				"Y": 0.109392345,
+				"Z": -1.0127397
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 3,
+			"Driver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "25",
+				"Team": "",
+				"Guid": "76561197973378378"
+			},
+			"ImpactSpeed": 14.735301,
+			"WorldPosition": {
+				"X": -331.7522,
+				"Y": 47.81307,
+				"Z": 59.56046
+			},
+			"RelPosition": {
+				"X": -0.90157163,
+				"Y": 0.08874018,
+				"Z": 1.5121408
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "25",
+				"Team": "",
+				"Guid": "76561197973378378"
+			},
+			"OtherCarId": 3,
+			"OtherDriver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"ImpactSpeed": 8.196646,
+			"WorldPosition": {
+				"X": -331.61716,
+				"Y": 47.80511,
+				"Z": 59.68004
+			},
+			"RelPosition": {
+				"X": 0.8445753,
+				"Y": 0.18042609,
+				"Z": -1.4400709
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 5,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 5.3687954,
+			"WorldPosition": {
+				"X": -35.363914,
+				"Y": 64.61125,
+				"Z": -1003.55835
+			},
+			"RelPosition": {
+				"X": -0.7451857,
+				"Y": -0.07658335,
+				"Z": 1.9333045
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 8,
+			"Driver": {
+				"Name": "Th3HolyMoose",
+				"Team": "",
+				"Guid": "76561198029842017"
+			},
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Name": "Noah",
+				"Team": "",
+				"Guid": "76561198042375839"
+			},
+			"ImpactSpeed": 7.099444,
+			"WorldPosition": {
+				"X": -277.57947,
+				"Y": 48.54034,
+				"Z": -118.40132
+			},
+			"RelPosition": {
+				"X": -0.83878696,
+				"Y": -0.0002802089,
+				"Z": 1.6573974
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 0,
+			"Driver": {
+				"Name": "Noah",
+				"Team": "",
+				"Guid": "76561198042375839"
+			},
+			"OtherCarId": 8,
+			"OtherDriver": {
+				"Name": "Th3HolyMoose",
+				"Team": "",
+				"Guid": "76561198029842017"
+			},
+			"ImpactSpeed": 19.542936,
+			"WorldPosition": {
+				"X": -277.73972,
+				"Y": 48.570248,
+				"Z": -119.46489
+			},
+			"RelPosition": {
+				"X": 0.79995227,
+				"Y": -0.06586753,
+				"Z": 0.49402434
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 7,
+			"Driver": {
+				"Name": "ConeDodger",
+				"Team": "",
+				"Guid": "76561198004896172"
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Sharkeh",
+				"Team": "",
+				"Guid": "76561197969361530"
+			},
+			"ImpactSpeed": 5.127921,
+			"WorldPosition": {
+				"X": -4.935756,
+				"Y": 63.973694,
+				"Z": -710.7498
+			},
+			"RelPosition": {
+				"X": 0.90179014,
+				"Y": 0.15117422,
+				"Z": 1.5119648
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 7,
+			"Driver": {
+				"Name": "ConeDodger",
+				"Team": "",
+				"Guid": "76561198004896172"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 25.617819,
+			"WorldPosition": {
+				"X": -15.899371,
+				"Y": 62.85561,
+				"Z": -651.18787
+			},
+			"RelPosition": {
+				"X": -0.91060936,
+				"Y": -0.290527,
+				"Z": -1.7320199
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Sharkeh",
+				"Team": "",
+				"Guid": "76561197969361530"
+			},
+			"OtherCarId": 7,
+			"OtherDriver": {
+				"Name": "ConeDodger",
+				"Team": "",
+				"Guid": "76561198004896172"
+			},
+			"ImpactSpeed": 4.88272,
+			"WorldPosition": {
+				"X": -4.931522,
+				"Y": 63.980724,
+				"Z": -710.6299
+			},
+			"RelPosition": {
+				"X": -0.83276486,
+				"Y": 0.15340067,
+				"Z": -0.65044653
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 4,
+			"Driver": {
+				"Name": "marzen224",
+				"Team": "",
+				"Guid": "76561198062409652"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 21.57856,
+			"WorldPosition": {
+				"X": -17.378897,
+				"Y": 64.86598,
+				"Z": -920.39355
+			},
+			"RelPosition": {
+				"X": -0.83432496,
+				"Y": 0.21674314,
+				"Z": -1.8087019
+			}
+		}
+	]
+}

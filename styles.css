@@ -1,0 +1,203 @@
+@font-face {
+    font-family: clf;
+    src: url(fonts/DisposableDigiBB.otf);
+    font-weight: bold;
+}
+
+
+.content:before {
+  margin: 0px;
+  content: "";
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: -1;
+  overflow-x: hidden;
+  display: block;
+  background-image: url('background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  font-family: clf;
+}
+
+.vidlist {
+    font-family: clf;
+    overflow: hidden;
+    background-color: #222222;
+    margin-bottom: 10px;
+}
+.yth {
+    font-family: clf;
+    position: relative;
+    left: 0px;
+    background-color: #222222;
+    width: 100%;
+    margin: 0px;
+}
+.yt_0 {
+    width: 25%;
+    float: left;
+    display: inline-block;
+    left: 0px;
+}
+.yt_left {
+    float: left;
+    width: 40%;
+}
+.yt_right {
+    float: right;
+    width: 40%;
+}
+.yt_thumb_left {
+    float: left;
+    width: 90%;
+    margin-bottom: 40px
+}
+.yt_thumb_right {
+    float: right;
+    width: 90%;
+    margin-bottom: 40px
+}
+.yt_name {
+    font-family: clf;
+    font-size: 45px;
+    font-weight: bold;
+    margin: 0px;
+    position: relative;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.content {
+  z-index: -2;
+}
+.large {
+    color: #CCCCCC;
+    font-size: 75px;
+    text-decoration: underline;
+    font-variant: small-caps;
+    font-family: clf;
+}
+
+.it {
+    display: inline;
+    
+    font-family: clf;
+}
+.itt {
+    display: inline;
+}
+
+
+.titlediv {
+    position: absolute;
+    font-family: clf;
+    top: 5%;
+    left: 10%;
+    text-align: center;
+}
+.title {
+    font-family: clf;
+    color: #FFFFFF;
+    position: relative;
+    font-size: 120px;
+    text-align: center;
+    text-decoration: underline;
+    position: absolute;
+    top: 50%;
+}
+
+.text {
+    font-family: clf;
+    background-color: #333336;
+    opacity: 0.90;
+    width: 70%;
+    height: 700%;
+    position: absolute;
+    top: 22%;
+    left: 15%;
+}
+
+.ll {
+    color: #FFFFFF;
+    text-decoration: underline;
+    
+}
+.lll {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.links {
+    font-size: 25px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    font-family: clf;
+}
+
+.contents {
+    margin: 50px;
+    color: #FFFFFF;
+}
+.header {
+    font-size: 55px;
+    text-decoration: underline;
+    font-weight: normal;
+    font-family: clf;
+    position: relative;
+    left: 12px;
+}
+.name {
+    text-decoration: underline;
+    font-variant: small-caps;
+}
+.bread {
+    font-size: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-family: clf;
+}
+.links {
+    color: #3399ff;
+    margin: 0px;
+}
+ul {
+    position: absolute;
+    top: 115%;
+    left: 15%;
+    width: 70%;
+    height: 50px;
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+   
+}
+
+li {
+    float: right;
+    border-left: 1px solid #bbb;
+}
+
+li a {
+    display: block;
+    color: #EEEEEE;
+    font-size: 40px;
+    text-align: center;
+    padding: 0px 50px;
+    text-decoration: none;
+    font-variant: small-caps;
+    
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}

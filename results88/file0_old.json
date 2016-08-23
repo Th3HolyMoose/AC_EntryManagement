@@ -1,0 +1,997 @@
+{
+	"TrackName": "ks_silverstone",
+	"TrackConfig": "international",
+	"Type": "RACE",
+	"DurationSecs": 0,
+	"RaceLaps": 7,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "gunciz",
+				"Team": "",
+				"Guid": "76561198045810346"
+			},
+			"Model": "bmw_m3_e30_dtm",
+			"Skin": "gunciz",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "ConeDodger",
+				"Team": "",
+				"Guid": "76561198004896172"
+			},
+			"Model": "bmw_m3_e30_dtm",
+			"Skin": "ConeDodger",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "kurtjmac",
+				"Team": "",
+				"Guid": "76561197998387062"
+			},
+			"Model": "bmw_m3_e30_dtm",
+			"Skin": "kurtjmac",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "25",
+				"Team": "",
+				"Guid": "76561197973378378"
+			},
+			"Model": "bmw_m3_e30_dtm",
+			"Skin": "25",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "",
+				"Team": "",
+				"Guid": "76561197990156043"
+			},
+			"Model": "bmw_m3_e30_dtm",
+			"Skin": "georgin95",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"Model": "bmw_m3_e30_dtm",
+			"Skin": "RebelCowboySnB",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "lesscubes",
+				"Team": "",
+				"Guid": "76561198002354974"
+			},
+			"Model": "bmw_m3_e30_dtm",
+			"Skin": "lesscubes",
+			"BallastKG": 50
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"BestLap": 73356,
+			"TotalTime": 529395,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"BestLap": 72702,
+			"TotalTime": 533710,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"BestLap": 75445,
+			"TotalTime": 545632,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "76561197990156043",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"BestLap": 75508,
+			"TotalTime": 569082,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"BestLap": 76204,
+			"TotalTime": 571819,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "kurtjmac",
+			"DriverGuid": "76561197998387062",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"BestLap": 75458,
+			"TotalTime": 591008,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "lesscubes",
+			"DriverGuid": "76561198002354974",
+			"CarId": 6,
+			"CarModel": "bmw_m3_e30_dtm",
+			"BestLap": 79816,
+			"TotalTime": 667879,
+			"BallastKG": 50
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 805923,
+			"LapTime": 80114,
+			"Sectors": [
+				39488,
+				40626
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 807580,
+			"LapTime": 81860,
+			"Sectors": [
+				40357,
+				41503
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 810293,
+			"LapTime": 84551,
+			"Sectors": [
+				42026,
+				42525
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "76561197990156043",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 810830,
+			"LapTime": 85031,
+			"Sectors": [
+				43348,
+				41683
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 812772,
+			"LapTime": 87018,
+			"Sectors": [
+				44834,
+				42184
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "kurtjmac",
+			"DriverGuid": "76561197998387062",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 813919,
+			"LapTime": 88149,
+			"Sectors": [
+				44116,
+				44033
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "lesscubes",
+			"DriverGuid": "76561198002354974",
+			"CarId": 6,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 814593,
+			"LapTime": 88828,
+			"Sectors": [
+				45489,
+				43339
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 879777,
+			"LapTime": 73861,
+			"Sectors": [
+				33608,
+				40253
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 881131,
+			"LapTime": 73551,
+			"Sectors": [
+				33456,
+				40095
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "76561197990156043",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 887879,
+			"LapTime": 77047,
+			"Sectors": [
+				34958,
+				42089
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 888638,
+			"LapTime": 78343,
+			"Sectors": [
+				36390,
+				41953
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 889270,
+			"LapTime": 76499,
+			"Sectors": [
+				35050,
+				41449
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "kurtjmac",
+			"DriverGuid": "76561197998387062",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 893785,
+			"LapTime": 79865,
+			"Sectors": [
+				38578,
+				41287
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "lesscubes",
+			"DriverGuid": "76561198002354974",
+			"CarId": 6,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 930219,
+			"LapTime": 115629,
+			"Sectors": [
+				37464,
+				78165
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 953120,
+			"LapTime": 73342,
+			"Sectors": [
+				33364,
+				39978
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 956023,
+			"LapTime": 74893,
+			"Sectors": [
+				35041,
+				39852
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "76561197990156043",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 964144,
+			"LapTime": 76254,
+			"Sectors": [
+				34116,
+				42138
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 964718,
+			"LapTime": 75445,
+			"Sectors": [
+				34733,
+				40712
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "kurtjmac",
+			"DriverGuid": "76561197998387062",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 975764,
+			"LapTime": 81992,
+			"Sectors": [
+				34374,
+				47618
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 979416,
+			"LapTime": 90779,
+			"Sectors": [
+				35204,
+				55575
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "lesscubes",
+			"DriverGuid": "76561198002354974",
+			"CarId": 6,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1017926,
+			"LapTime": 87704,
+			"Sectors": [
+				36895,
+				50809
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1026994,
+			"LapTime": 73878,
+			"Sectors": [
+				33742,
+				40136
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1029379,
+			"LapTime": 73356,
+			"Sectors": [
+				33571,
+				39785
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1041572,
+			"LapTime": 76852,
+			"Sectors": [
+				35268,
+				41584
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "76561197990156043",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1041640,
+			"LapTime": 77512,
+			"Sectors": [
+				35603,
+				41909
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "kurtjmac",
+			"DriverGuid": "76561197998387062",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1051222,
+			"LapTime": 75458,
+			"Sectors": [
+				34603,
+				40855
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1063952,
+			"LapTime": 84531,
+			"Sectors": [
+				42343,
+				42188
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1100163,
+			"LapTime": 73170,
+			"Sectors": [
+				33371,
+				39799
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1102837,
+			"LapTime": 73458,
+			"Sectors": [
+				33345,
+				40113
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1118232,
+			"LapTime": 76663,
+			"Sectors": [
+				35569,
+				41094
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "76561197990156043",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1119468,
+			"LapTime": 77828,
+			"Sectors": [
+				37328,
+				40500
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "kurtjmac",
+			"DriverGuid": "76561197998387062",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1127699,
+			"LapTime": 76480,
+			"Sectors": [
+				35296,
+				41184
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1143666,
+			"LapTime": 79717,
+			"Sectors": [
+				36945,
+				42772
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "lesscubes",
+			"DriverGuid": "76561198002354974",
+			"CarId": 6,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1152762,
+			"LapTime": 134850,
+			"Sectors": [
+				90034,
+				44816
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1172862,
+			"LapTime": 72702,
+			"Sectors": [
+				32994,
+				39708
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1176508,
+			"LapTime": 73673,
+			"Sectors": [
+				33704,
+				39969
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1194670,
+			"LapTime": 76434,
+			"Sectors": [
+				34962,
+				41472
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "kurtjmac",
+			"DriverGuid": "76561197998387062",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1205410,
+			"LapTime": 77707,
+			"Sectors": [
+				35254,
+				42453
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "76561197990156043",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1219376,
+			"LapTime": 99911,
+			"Sectors": [
+				53031,
+				46880
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1221364,
+			"LapTime": 77698,
+			"Sectors": [
+				35790,
+				41908
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "lesscubes",
+			"DriverGuid": "76561198002354974",
+			"CarId": 6,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1232572,
+			"LapTime": 79816,
+			"Sectors": [
+				38034,
+				41782
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1255117,
+			"LapTime": 78609,
+			"Sectors": [
+				33428,
+				45181
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "gunciz",
+			"DriverGuid": "76561198045810346",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1259513,
+			"LapTime": 86652,
+			"Sectors": [
+				33596,
+				53056
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "25",
+			"DriverGuid": "76561197973378378",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1271381,
+			"LapTime": 76697,
+			"Sectors": [
+				34780,
+				41917
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "",
+			"DriverGuid": "76561197990156043",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1294884,
+			"LapTime": 75508,
+			"Sectors": [
+				34274,
+				41234
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1297566,
+			"LapTime": 76204,
+			"Sectors": [
+				34871,
+				41333
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "lesscubes",
+			"DriverGuid": "76561198002354974",
+			"CarId": 6,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1312544,
+			"LapTime": 79979,
+			"Sectors": [
+				36523,
+				43456
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "kurtjmac",
+			"DriverGuid": "76561197998387062",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1316773,
+			"LapTime": 111376,
+			"Sectors": [
+				69630,
+				41746
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "lesscubes",
+			"DriverGuid": "76561198002354974",
+			"CarId": 6,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1393650,
+			"LapTime": 81106,
+			"Sectors": [
+				36839,
+				44267
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 2,
+			"Driver": {
+				"Name": "kurtjmac",
+				"Team": "",
+				"Guid": "76561197998387062"
+			},
+			"OtherCarId": 5,
+			"OtherDriver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"ImpactSpeed": 115.19706,
+			"WorldPosition": {
+				"X": -177.5724,
+				"Y": -2.5127754,
+				"Z": 733.04895
+			},
+			"RelPosition": {
+				"X": 0.74076694,
+				"Y": -0.36636367,
+				"Z": 1.8371763
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 5,
+			"Driver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"OtherCarId": 2,
+			"OtherDriver": {
+				"Name": "kurtjmac",
+				"Team": "",
+				"Guid": "76561197998387062"
+			},
+			"ImpactSpeed": 122.357796,
+			"WorldPosition": {
+				"X": -177.55391,
+				"Y": -2.5087316,
+				"Z": 733.1763
+			},
+			"RelPosition": {
+				"X": 0.7842957,
+				"Y": -0.31905246,
+				"Z": -0.57580745
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 1,
+			"Driver": {
+				"Name": "ConeDodger",
+				"Team": "",
+				"Guid": "76561198004896172"
+			},
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Name": "gunciz",
+				"Team": "",
+				"Guid": "76561198045810346"
+			},
+			"ImpactSpeed": 61.291824,
+			"WorldPosition": {
+				"X": -251.36029,
+				"Y": -4.4832397,
+				"Z": 643.7526
+			},
+			"RelPosition": {
+				"X": -8.106232e-06,
+				"Y": -0.106877156,
+				"Z": 2.0268764
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 0,
+			"Driver": {
+				"Name": "gunciz",
+				"Team": "",
+				"Guid": "76561198045810346"
+			},
+			"OtherCarId": 1,
+			"OtherDriver": {
+				"Name": "ConeDodger",
+				"Team": "",
+				"Guid": "76561198004896172"
+			},
+			"ImpactSpeed": 67.067726,
+			"WorldPosition": {
+				"X": -251.29988,
+				"Y": -4.481846,
+				"Z": 643.91315
+			},
+			"RelPosition": {
+				"X": -0.54421574,
+				"Y": -0.050096624,
+				"Z": -2.2714825
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 1,
+			"Driver": {
+				"Name": "ConeDodger",
+				"Team": "",
+				"Guid": "76561198004896172"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 22.141079,
+			"WorldPosition": {
+				"X": -365.72128,
+				"Y": -4.793688,
+				"Z": 177.4932
+			},
+			"RelPosition": {
+				"X": -0.8589372,
+				"Y": -0.004528502,
+				"Z": 1.5623507
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 1,
+			"Driver": {
+				"Name": "ConeDodger",
+				"Team": "",
+				"Guid": "76561198004896172"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 12.700856,
+			"WorldPosition": {
+				"X": -361.5788,
+				"Y": -4.522464,
+				"Z": 173.08914
+			},
+			"RelPosition": {
+				"X": -0.8414167,
+				"Y": 0.28535616,
+				"Z": -1.8403189
+			}
+		}
+	]
+}

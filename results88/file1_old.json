@@ -1,0 +1,853 @@
+{
+	"TrackName": "ks_silverstone",
+	"TrackConfig": "international",
+	"Type": "RACE",
+	"DurationSecs": 0,
+	"RaceLaps": 7,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "dJomp",
+				"Team": "",
+				"Guid": "76561198047322641"
+			},
+			"Model": "bmw_m3_e30_dtm",
+			"Skin": "dJomp",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"Model": "bmw_m3_e30_dtm",
+			"Skin": "NihonTiger",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "Servatis",
+				"Team": "",
+				"Guid": "76561197981674541"
+			},
+			"Model": "bmw_m3_e30_dtm",
+			"Skin": "Servatis",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"Model": "bmw_m3_e30_dtm",
+			"Skin": "roterx2",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "Kiera Taylor",
+				"Team": "",
+				"Guid": "76561198051925301"
+			},
+			"Model": "bmw_m3_e30_dtm",
+			"Skin": "Kiera Taylor",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "Spooky Squid",
+				"Team": "",
+				"Guid": "76561198044450579"
+			},
+			"Model": "bmw_m3_e30_dtm",
+			"Skin": "Spooky Squid",
+			"BallastKG": 50
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "Servatis",
+			"DriverGuid": "76561197981674541",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"BestLap": 73579,
+			"TotalTime": 541002,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"BestLap": 73813,
+			"TotalTime": 548983,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Kiera Taylor",
+			"DriverGuid": "76561198051925301",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"BestLap": 73029,
+			"TotalTime": 550933,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"BestLap": 77136,
+			"TotalTime": 557652,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "dJomp",
+			"DriverGuid": "76561198047322641",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"BestLap": 76348,
+			"TotalTime": 568505,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"BestLap": 79164,
+			"TotalTime": 589988,
+			"BallastKG": 50
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "Servatis",
+			"DriverGuid": "76561197981674541",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 776587,
+			"LapTime": 80763,
+			"Sectors": [
+				40213,
+				40550
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 778614,
+			"LapTime": 82775,
+			"Sectors": [
+				41466,
+				41309
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "dJomp",
+			"DriverGuid": "76561198047322641",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 780989,
+			"LapTime": 85160,
+			"Sectors": [
+				43895,
+				41265
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 782594,
+			"LapTime": 86758,
+			"Sectors": [
+				44544,
+				42214
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Kiera Taylor",
+			"DriverGuid": "76561198051925301",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 786274,
+			"LapTime": 90431,
+			"Sectors": [
+				49356,
+				41075
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 788167,
+			"LapTime": 92364,
+			"Sectors": [
+				49690,
+				42674
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Servatis",
+			"DriverGuid": "76561197981674541",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 850652,
+			"LapTime": 74065,
+			"Sectors": [
+				33714,
+				40351
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 853753,
+			"LapTime": 75143,
+			"Sectors": [
+				34099,
+				41044
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "dJomp",
+			"DriverGuid": "76561198047322641",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 858060,
+			"LapTime": 77074,
+			"Sectors": [
+				35953,
+				41121
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Kiera Taylor",
+			"DriverGuid": "76561198051925301",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 859300,
+			"LapTime": 73029,
+			"Sectors": [
+				33320,
+				39709
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 866517,
+			"LapTime": 78353,
+			"Sectors": [
+				35846,
+				42507
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 873770,
+			"LapTime": 91184,
+			"Sectors": [
+				36294,
+				54890
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Servatis",
+			"DriverGuid": "76561197981674541",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 925925,
+			"LapTime": 75273,
+			"Sectors": [
+				34484,
+				40789
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 928991,
+			"LapTime": 75234,
+			"Sectors": [
+				33635,
+				41599
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Kiera Taylor",
+			"DriverGuid": "76561198051925301",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 932997,
+			"LapTime": 73696,
+			"Sectors": [
+				33538,
+				40158
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 944130,
+			"LapTime": 77614,
+			"Sectors": [
+				35823,
+				41791
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "dJomp",
+			"DriverGuid": "76561198047322641",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 944743,
+			"LapTime": 86685,
+			"Sectors": [
+				45186,
+				41499
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 952942,
+			"LapTime": 79176,
+			"Sectors": [
+				36223,
+				42953
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1004675,
+			"LapTime": 75681,
+			"Sectors": [
+				34920,
+				40761
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Kiera Taylor",
+			"DriverGuid": "76561198051925301",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1006587,
+			"LapTime": 73598,
+			"Sectors": [
+				33782,
+				39816
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Servatis",
+			"DriverGuid": "76561197981674541",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1010122,
+			"LapTime": 84195,
+			"Sectors": [
+				43258,
+				40937
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1021608,
+			"LapTime": 77478,
+			"Sectors": [
+				35574,
+				41904
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "dJomp",
+			"DriverGuid": "76561198047322641",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1024377,
+			"LapTime": 79640,
+			"Sectors": [
+				36062,
+				43578
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1032665,
+			"LapTime": 79726,
+			"Sectors": [
+				37466,
+				42260
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1078624,
+			"LapTime": 73953,
+			"Sectors": [
+				33799,
+				40154
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Kiera Taylor",
+			"DriverGuid": "76561198051925301",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1079642,
+			"LapTime": 73056,
+			"Sectors": [
+				33059,
+				39997
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Servatis",
+			"DriverGuid": "76561197981674541",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1083699,
+			"LapTime": 73579,
+			"Sectors": [
+				33453,
+				40126
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1098903,
+			"LapTime": 77292,
+			"Sectors": [
+				35851,
+				41441
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "dJomp",
+			"DriverGuid": "76561198047322641",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1102850,
+			"LapTime": 78478,
+			"Sectors": [
+				37263,
+				41215
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1119329,
+			"LapTime": 86671,
+			"Sectors": [
+				43683,
+				42988
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1152437,
+			"LapTime": 73813,
+			"Sectors": [
+				33592,
+				40221
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Kiera Taylor",
+			"DriverGuid": "76561198051925301",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1153246,
+			"LapTime": 73602,
+			"Sectors": [
+				33259,
+				40343
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Servatis",
+			"DriverGuid": "76561197981674541",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1162416,
+			"LapTime": 78715,
+			"Sectors": [
+				37086,
+				41629
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1176315,
+			"LapTime": 77413,
+			"Sectors": [
+				35874,
+				41539
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "dJomp",
+			"DriverGuid": "76561198047322641",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1179197,
+			"LapTime": 76348,
+			"Sectors": [
+				35421,
+				40927
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1206668,
+			"LapTime": 87342,
+			"Sectors": [
+				45028,
+				42314
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Servatis",
+			"DriverGuid": "76561197981674541",
+			"CarId": 2,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1236833,
+			"LapTime": 74418,
+			"Sectors": [
+				33530,
+				40888
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Spooky Squid",
+			"DriverGuid": "76561198044450579",
+			"CarId": 5,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1244819,
+			"LapTime": 92381,
+			"Sectors": [
+				52016,
+				40365
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Kiera Taylor",
+			"DriverGuid": "76561198051925301",
+			"CarId": 4,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1246778,
+			"LapTime": 93537,
+			"Sectors": [
+				52172,
+				41365
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 1,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1253450,
+			"LapTime": 77136,
+			"Sectors": [
+				35736,
+				41400
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "dJomp",
+			"DriverGuid": "76561198047322641",
+			"CarId": 0,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1264341,
+			"LapTime": 85150,
+			"Sectors": [
+				44069,
+				41081
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 3,
+			"CarModel": "bmw_m3_e30_dtm",
+			"Timestamp": 1285829,
+			"LapTime": 79164,
+			"Sectors": [
+				36521,
+				42643
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 5,
+			"Driver": {
+				"Name": "Spooky Squid",
+				"Team": "",
+				"Guid": "76561198044450579"
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "Kiera Taylor",
+				"Team": "",
+				"Guid": "76561198051925301"
+			},
+			"ImpactSpeed": 2.9236424,
+			"WorldPosition": {
+				"X": 232.2881,
+				"Y": 2.3975213,
+				"Z": -143.17192
+			},
+			"RelPosition": {
+				"X": 0.8383614,
+				"Y": 0.047200497,
+				"Z": 1.033042
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Kiera Taylor",
+				"Team": "",
+				"Guid": "76561198051925301"
+			},
+			"OtherCarId": 5,
+			"OtherDriver": {
+				"Name": "Spooky Squid",
+				"Team": "",
+				"Guid": "76561198044450579"
+			},
+			"ImpactSpeed": 16.242834,
+			"WorldPosition": {
+				"X": 233.49927,
+				"Y": 2.4345856,
+				"Z": -142.79182
+			},
+			"RelPosition": {
+				"X": -0.8142802,
+				"Y": 0.05249403,
+				"Z": -0.52715504
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 1,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 44.67032,
+			"WorldPosition": {
+				"X": 361.8272,
+				"Y": 3.2968783,
+				"Z": -10.100217
+			},
+			"RelPosition": {
+				"X": 0.5062228,
+				"Y": -0.10302271,
+				"Z": 1.9256732
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 0,
+			"Driver": {
+				"Name": "dJomp",
+				"Team": "",
+				"Guid": "76561198047322641"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 37.72996,
+			"WorldPosition": {
+				"X": 375.50397,
+				"Y": 3.0551198,
+				"Z": -3.842006
+			},
+			"RelPosition": {
+				"X": 0.74557805,
+				"Y": -0.103208154,
+				"Z": 1.8955287
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 2,
+			"Driver": {
+				"Name": "Servatis",
+				"Team": "",
+				"Guid": "76561197981674541"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 19.689854,
+			"WorldPosition": {
+				"X": 144.74303,
+				"Y": 2.2293696,
+				"Z": -134.83124
+			},
+			"RelPosition": {
+				"X": 0.81984437,
+				"Y": 0.04871507,
+				"Z": 1.6325226
+			}
+		}
+	]
+}

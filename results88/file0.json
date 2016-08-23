@@ -1,0 +1,2761 @@
+{
+	"TrackName": "spa",
+	"TrackConfig": "",
+	"Type": "RACE",
+	"DurationSecs": 0,
+	"RaceLaps": 5,
+	"Cars": [
+		{
+			"CarId": 0,
+			"Driver": {
+				"Name": "JEMknight657",
+				"Team": "",
+				"Guid": "76561198064204883"
+			},
+			"Model": "ks_mazda_mx5_cup",
+			"Skin": "15",
+			"BallastKG": 60
+		},
+		{
+			"CarId": 1,
+			"Driver": {
+				"Name": "ConeDodger",
+				"Team": "",
+				"Guid": "76561198004896172"
+			},
+			"Model": "ks_mazda_mx5_cup",
+			"Skin": "9",
+			"BallastKG": 80
+		},
+		{
+			"CarId": 2,
+			"Driver": {
+				"Name": "JMSF32",
+				"Team": "",
+				"Guid": "76561198143546227"
+			},
+			"Model": "ks_mazda_mx5_cup",
+			"Skin": "07",
+			"BallastKG": 45
+		},
+		{
+			"CarId": 3,
+			"Driver": {
+				"Name": "Mach 1 Fireman",
+				"Team": "",
+				"Guid": "76561198075006094"
+			},
+			"Model": "ks_mazda_mx5_cup",
+			"Skin": "52",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 4,
+			"Driver": {
+				"Name": "Sebbi",
+				"Team": "",
+				"Guid": "76561198030527121"
+			},
+			"Model": "ks_mazda_mx5_cup",
+			"Skin": "49",
+			"BallastKG": 35
+		},
+		{
+			"CarId": 5,
+			"Driver": {
+				"Name": "xPsychedelix",
+				"Team": "",
+				"Guid": "76561198030317705"
+			},
+			"Model": "ks_mazda_mx5_cup",
+			"Skin": "14",
+			"BallastKG": 45
+		},
+		{
+			"CarId": 6,
+			"Driver": {
+				"Name": "DiscGolfer947",
+				"Team": "",
+				"Guid": "76561198059942076"
+			},
+			"Model": "ks_mazda_mx5_cup",
+			"Skin": "17",
+			"BallastKG": 55
+		},
+		{
+			"CarId": 7,
+			"Driver": {
+				"Name": "Sharkeh",
+				"Team": "",
+				"Guid": "76561197969361530"
+			},
+			"Model": "ks_mazda_mx5_cup",
+			"Skin": "80",
+			"BallastKG": 80
+		},
+		{
+			"CarId": 8,
+			"Driver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"Model": "ks_mazda_mx5_cup",
+			"Skin": "71",
+			"BallastKG": 45
+		},
+		{
+			"CarId": 9,
+			"Driver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"Model": "ks_mazda_mx5_cup",
+			"Skin": "98",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"Model": "ks_mazda_mx5_cup",
+			"Skin": "12",
+			"BallastKG": 50
+		},
+		{
+			"CarId": 11,
+			"Driver": {
+				"Name": "Maestro-Ponchik",
+				"Team": "",
+				"Guid": "76561198016019269"
+			},
+			"Model": "ks_mazda_mx5_cup",
+			"Skin": "8",
+			"BallastKG": 70
+		},
+		{
+			"CarId": 12,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"Model": "ks_mazda_mx5_cup",
+			"Skin": "66",
+			"BallastKG": 50
+		}
+	],
+	"Result": [
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 7,
+			"CarModel": "ks_mazda_mx5_cup",
+			"BestLap": 176131,
+			"TotalTime": 886221,
+			"BallastKG": 80
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "ks_mazda_mx5_cup",
+			"BestLap": 176324,
+			"TotalTime": 888473,
+			"BallastKG": 80
+		},
+		{
+			"DriverName": "JEMknight657",
+			"DriverGuid": "76561198064204883",
+			"CarId": 0,
+			"CarModel": "ks_mazda_mx5_cup",
+			"BestLap": 178898,
+			"TotalTime": 900237,
+			"BallastKG": 60
+		},
+		{
+			"DriverName": "Maestro-Ponchik",
+			"DriverGuid": "76561198016019269",
+			"CarId": 11,
+			"CarModel": "ks_mazda_mx5_cup",
+			"BestLap": 177623,
+			"TotalTime": 910995,
+			"BallastKG": 70
+		},
+		{
+			"DriverName": "Sebbi",
+			"DriverGuid": "76561198030527121",
+			"CarId": 4,
+			"CarModel": "ks_mazda_mx5_cup",
+			"BestLap": 179733,
+			"TotalTime": 913721,
+			"BallastKG": 35
+		},
+		{
+			"DriverName": "xPsychedelix",
+			"DriverGuid": "76561198030317705",
+			"CarId": 5,
+			"CarModel": "ks_mazda_mx5_cup",
+			"BestLap": 178499,
+			"TotalTime": 919420,
+			"BallastKG": 45
+		},
+		{
+			"DriverName": "Mach 1 Fireman",
+			"DriverGuid": "76561198075006094",
+			"CarId": 3,
+			"CarModel": "ks_mazda_mx5_cup",
+			"BestLap": 179792,
+			"TotalTime": 927860,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 12,
+			"CarModel": "ks_mazda_mx5_cup",
+			"BestLap": 179756,
+			"TotalTime": 932613,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "DiscGolfer947",
+			"DriverGuid": "76561198059942076",
+			"CarId": 6,
+			"CarModel": "ks_mazda_mx5_cup",
+			"BestLap": 180175,
+			"TotalTime": 934447,
+			"BallastKG": 55
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 10,
+			"CarModel": "ks_mazda_mx5_cup",
+			"BestLap": 180608,
+			"TotalTime": 937468,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 8,
+			"CarModel": "ks_mazda_mx5_cup",
+			"BestLap": 180506,
+			"TotalTime": 941635,
+			"BallastKG": 45
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 9,
+			"CarModel": "ks_mazda_mx5_cup",
+			"BestLap": 185601,
+			"TotalTime": 992429,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "JMSF32",
+			"DriverGuid": "76561198143546227",
+			"CarId": 2,
+			"CarModel": "ks_mazda_mx5_cup",
+			"BestLap": 999999999,
+			"TotalTime": 0,
+			"BallastKG": 45
+		}
+	],
+	"Laps": [
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 7,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 1895945,
+			"LapTime": 180601,
+			"Sectors": [
+				57112,
+				75641,
+				47848
+			],
+			"Cuts": 0,
+			"BallastKG": 80
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 1897105,
+			"LapTime": 181833,
+			"Sectors": [
+				57133,
+				76707,
+				47993
+			],
+			"Cuts": 0,
+			"BallastKG": 80
+		},
+		{
+			"DriverName": "JEMknight657",
+			"DriverGuid": "76561198064204883",
+			"CarId": 0,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 1899431,
+			"LapTime": 184131,
+			"Sectors": [
+				57789,
+				77462,
+				48880
+			],
+			"Cuts": 0,
+			"BallastKG": 60
+		},
+		{
+			"DriverName": "Sebbi",
+			"DriverGuid": "76561198030527121",
+			"CarId": 4,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 1907668,
+			"LapTime": 192318,
+			"Sectors": [
+				67443,
+				76486,
+				48389
+			],
+			"Cuts": 0,
+			"BallastKG": 35
+		},
+		{
+			"DriverName": "DiscGolfer947",
+			"DriverGuid": "76561198059942076",
+			"CarId": 6,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 1913535,
+			"LapTime": 198211,
+			"Sectors": [
+				71522,
+				78035,
+				48654
+			],
+			"Cuts": 0,
+			"BallastKG": 55
+		},
+		{
+			"DriverName": "Maestro-Ponchik",
+			"DriverGuid": "76561198016019269",
+			"CarId": 11,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 1913637,
+			"LapTime": 198279,
+			"Sectors": [
+				71585,
+				77832,
+				48862
+			],
+			"Cuts": 0,
+			"BallastKG": 70
+		},
+		{
+			"DriverName": "xPsychedelix",
+			"DriverGuid": "76561198030317705",
+			"CarId": 5,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 1916459,
+			"LapTime": 201115,
+			"Sectors": [
+				74931,
+				77606,
+				48578
+			],
+			"Cuts": 0,
+			"BallastKG": 45
+		},
+		{
+			"DriverName": "Mach 1 Fireman",
+			"DriverGuid": "76561198075006094",
+			"CarId": 3,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 1919630,
+			"LapTime": 204351,
+			"Sectors": [
+				78675,
+				77080,
+				48596
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 12,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 1925573,
+			"LapTime": 210230,
+			"Sectors": [
+				78857,
+				79790,
+				51583
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 10,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 1926246,
+			"LapTime": 210937,
+			"Sectors": [
+				86138,
+				76510,
+				48289
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 8,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 1930136,
+			"LapTime": 214840,
+			"Sectors": [
+				86797,
+				78854,
+				49189
+			],
+			"Cuts": 0,
+			"BallastKG": 45
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 9,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 1948797,
+			"LapTime": 233442,
+			"Sectors": [
+				94643,
+				90036,
+				48763
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 7,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2072243,
+			"LapTime": 176293,
+			"Sectors": [
+				53781,
+				74816,
+				47696
+			],
+			"Cuts": 0,
+			"BallastKG": 80
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2074140,
+			"LapTime": 177034,
+			"Sectors": [
+				53522,
+				75214,
+				48298
+			],
+			"Cuts": 0,
+			"BallastKG": 80
+		},
+		{
+			"DriverName": "JEMknight657",
+			"DriverGuid": "76561198064204883",
+			"CarId": 0,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2078490,
+			"LapTime": 179064,
+			"Sectors": [
+				54405,
+				76072,
+				48587
+			],
+			"Cuts": 0,
+			"BallastKG": 60
+		},
+		{
+			"DriverName": "Sebbi",
+			"DriverGuid": "76561198030527121",
+			"CarId": 4,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2088059,
+			"LapTime": 180395,
+			"Sectors": [
+				54153,
+				77777,
+				48465
+			],
+			"Cuts": 0,
+			"BallastKG": 35
+		},
+		{
+			"DriverName": "Maestro-Ponchik",
+			"DriverGuid": "76561198016019269",
+			"CarId": 11,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2091255,
+			"LapTime": 177623,
+			"Sectors": [
+				53914,
+				75704,
+				48005
+			],
+			"Cuts": 0,
+			"BallastKG": 70
+		},
+		{
+			"DriverName": "xPsychedelix",
+			"DriverGuid": "76561198030317705",
+			"CarId": 5,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2095722,
+			"LapTime": 179267,
+			"Sectors": [
+				54505,
+				76316,
+				48446
+			],
+			"Cuts": 0,
+			"BallastKG": 45
+		},
+		{
+			"DriverName": "Mach 1 Fireman",
+			"DriverGuid": "76561198075006094",
+			"CarId": 3,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2099414,
+			"LapTime": 179792,
+			"Sectors": [
+				54121,
+				77368,
+				48303
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "DiscGolfer947",
+			"DriverGuid": "76561198059942076",
+			"CarId": 6,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2101083,
+			"LapTime": 187543,
+			"Sectors": [
+				61678,
+				76541,
+				49324
+			],
+			"Cuts": 0,
+			"BallastKG": 55
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 12,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2105512,
+			"LapTime": 179944,
+			"Sectors": [
+				54218,
+				77288,
+				48438
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 10,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2106853,
+			"LapTime": 180608,
+			"Sectors": [
+				54023,
+				78026,
+				48559
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 8,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2112714,
+			"LapTime": 182580,
+			"Sectors": [
+				55544,
+				78669,
+				48367
+			],
+			"Cuts": 0,
+			"BallastKG": 45
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 9,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2142029,
+			"LapTime": 193243,
+			"Sectors": [
+				54544,
+				89753,
+				48946
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 7,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2248378,
+			"LapTime": 176131,
+			"Sectors": [
+				53636,
+				74692,
+				47803
+			],
+			"Cuts": 0,
+			"BallastKG": 80
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2251032,
+			"LapTime": 176892,
+			"Sectors": [
+				53619,
+				75393,
+				47880
+			],
+			"Cuts": 0,
+			"BallastKG": 80
+		},
+		{
+			"DriverName": "JEMknight657",
+			"DriverGuid": "76561198064204883",
+			"CarId": 0,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2257463,
+			"LapTime": 178978,
+			"Sectors": [
+				54044,
+				76276,
+				48658
+			],
+			"Cuts": 0,
+			"BallastKG": 60
+		},
+		{
+			"DriverName": "Sebbi",
+			"DriverGuid": "76561198030527121",
+			"CarId": 4,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2267800,
+			"LapTime": 179733,
+			"Sectors": [
+				53885,
+				77194,
+				48654
+			],
+			"Cuts": 0,
+			"BallastKG": 35
+		},
+		{
+			"DriverName": "Maestro-Ponchik",
+			"DriverGuid": "76561198016019269",
+			"CarId": 11,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2268979,
+			"LapTime": 177726,
+			"Sectors": [
+				53557,
+				75812,
+				48357
+			],
+			"Cuts": 0,
+			"BallastKG": 70
+		},
+		{
+			"DriverName": "xPsychedelix",
+			"DriverGuid": "76561198030317705",
+			"CarId": 5,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2274219,
+			"LapTime": 178499,
+			"Sectors": [
+				54124,
+				75956,
+				48419
+			],
+			"Cuts": 0,
+			"BallastKG": 45
+		},
+		{
+			"DriverName": "Mach 1 Fireman",
+			"DriverGuid": "76561198075006094",
+			"CarId": 3,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2281248,
+			"LapTime": 181838,
+			"Sectors": [
+				54696,
+				78246,
+				48896
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 12,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2285502,
+			"LapTime": 179997,
+			"Sectors": [
+				54356,
+				77630,
+				48011
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "DiscGolfer947",
+			"DriverGuid": "76561198059942076",
+			"CarId": 6,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2286315,
+			"LapTime": 185226,
+			"Sectors": [
+				58600,
+				76630,
+				49996
+			],
+			"Cuts": 0,
+			"BallastKG": 55
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 10,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2288082,
+			"LapTime": 181227,
+			"Sectors": [
+				53917,
+				78597,
+				48713
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 8,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2294322,
+			"LapTime": 181610,
+			"Sectors": [
+				54215,
+				78796,
+				48599
+			],
+			"Cuts": 0,
+			"BallastKG": 45
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 9,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2336555,
+			"LapTime": 194540,
+			"Sectors": [
+				56557,
+				88925,
+				49058
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 7,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2424780,
+			"LapTime": 176397,
+			"Sectors": [
+				53655,
+				74816,
+				47926
+			],
+			"Cuts": 0,
+			"BallastKG": 80
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2427424,
+			"LapTime": 176395,
+			"Sectors": [
+				53577,
+				75023,
+				47795
+			],
+			"Cuts": 0,
+			"BallastKG": 80
+		},
+		{
+			"DriverName": "JEMknight657",
+			"DriverGuid": "76561198064204883",
+			"CarId": 0,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2436359,
+			"LapTime": 178898,
+			"Sectors": [
+				54334,
+				76019,
+				48545
+			],
+			"Cuts": 0,
+			"BallastKG": 60
+		},
+		{
+			"DriverName": "Maestro-Ponchik",
+			"DriverGuid": "76561198016019269",
+			"CarId": 11,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2447655,
+			"LapTime": 178677,
+			"Sectors": [
+				53716,
+				76235,
+				48726
+			],
+			"Cuts": 0,
+			"BallastKG": 70
+		},
+		{
+			"DriverName": "Sebbi",
+			"DriverGuid": "76561198030527121",
+			"CarId": 4,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2448233,
+			"LapTime": 180432,
+			"Sectors": [
+				53950,
+				76977,
+				49505
+			],
+			"Cuts": 0,
+			"BallastKG": 35
+		},
+		{
+			"DriverName": "xPsychedelix",
+			"DriverGuid": "76561198030317705",
+			"CarId": 5,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2453587,
+			"LapTime": 179373,
+			"Sectors": [
+				54210,
+				76522,
+				48641
+			],
+			"Cuts": 0,
+			"BallastKG": 45
+		},
+		{
+			"DriverName": "Mach 1 Fireman",
+			"DriverGuid": "76561198075006094",
+			"CarId": 3,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2461568,
+			"LapTime": 180336,
+			"Sectors": [
+				54304,
+				77080,
+				48952
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 12,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2465250,
+			"LapTime": 179756,
+			"Sectors": [
+				53905,
+				77292,
+				48559
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "DiscGolfer947",
+			"DriverGuid": "76561198059942076",
+			"CarId": 6,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2466492,
+			"LapTime": 180175,
+			"Sectors": [
+				54116,
+				77040,
+				49019
+			],
+			"Cuts": 0,
+			"BallastKG": 55
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 10,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2471807,
+			"LapTime": 183725,
+			"Sectors": [
+				54090,
+				80234,
+				49401
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 8,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2474827,
+			"LapTime": 180506,
+			"Sectors": [
+				54592,
+				77319,
+				48595
+			],
+			"Cuts": 0,
+			"BallastKG": 45
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 9,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2522189,
+			"LapTime": 185645,
+			"Sectors": [
+				57566,
+				78431,
+				49648
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Sharkeh",
+			"DriverGuid": "76561197969361530",
+			"CarId": 7,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2601565,
+			"LapTime": 176778,
+			"Sectors": [
+				53770,
+				75011,
+				47997
+			],
+			"Cuts": 0,
+			"BallastKG": 80
+		},
+		{
+			"DriverName": "ConeDodger",
+			"DriverGuid": "76561198004896172",
+			"CarId": 1,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2603746,
+			"LapTime": 176324,
+			"Sectors": [
+				53394,
+				74870,
+				48060
+			],
+			"Cuts": 0,
+			"BallastKG": 80
+		},
+		{
+			"DriverName": "JEMknight657",
+			"DriverGuid": "76561198064204883",
+			"CarId": 0,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2615541,
+			"LapTime": 179188,
+			"Sectors": [
+				54376,
+				76072,
+				48740
+			],
+			"Cuts": 0,
+			"BallastKG": 60
+		},
+		{
+			"DriverName": "Maestro-Ponchik",
+			"DriverGuid": "76561198016019269",
+			"CarId": 11,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2626357,
+			"LapTime": 178704,
+			"Sectors": [
+				53725,
+				76851,
+				48128
+			],
+			"Cuts": 0,
+			"BallastKG": 70
+		},
+		{
+			"DriverName": "Sebbi",
+			"DriverGuid": "76561198030527121",
+			"CarId": 4,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2629067,
+			"LapTime": 180832,
+			"Sectors": [
+				54360,
+				77818,
+				48654
+			],
+			"Cuts": 0,
+			"BallastKG": 35
+		},
+		{
+			"DriverName": "xPsychedelix",
+			"DriverGuid": "76561198030317705",
+			"CarId": 5,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2634770,
+			"LapTime": 181187,
+			"Sectors": [
+				53923,
+				78305,
+				48959
+			],
+			"Cuts": 0,
+			"BallastKG": 45
+		},
+		{
+			"DriverName": "Mach 1 Fireman",
+			"DriverGuid": "76561198075006094",
+			"CarId": 3,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2643153,
+			"LapTime": 181592,
+			"Sectors": [
+				54377,
+				78017,
+				49198
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "Incarcerant",
+			"DriverGuid": "76561198032973835",
+			"CarId": 12,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2647966,
+			"LapTime": 182721,
+			"Sectors": [
+				54875,
+				77931,
+				49915
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "DiscGolfer947",
+			"DriverGuid": "76561198059942076",
+			"CarId": 6,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2649757,
+			"LapTime": 183259,
+			"Sectors": [
+				54528,
+				77323,
+				51408
+			],
+			"Cuts": 0,
+			"BallastKG": 55
+		},
+		{
+			"DriverName": "NihonTiger",
+			"DriverGuid": "76561197988085739",
+			"CarId": 10,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2652774,
+			"LapTime": 180966,
+			"Sectors": [
+				54412,
+				77594,
+				48960
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		},
+		{
+			"DriverName": "RebelCowboySnB",
+			"DriverGuid": "76561198092619430",
+			"CarId": 8,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2656933,
+			"LapTime": 182108,
+			"Sectors": [
+				54534,
+				78578,
+				48996
+			],
+			"Cuts": 0,
+			"BallastKG": 45
+		},
+		{
+			"DriverName": "Roterx2",
+			"DriverGuid": "76561198069921360",
+			"CarId": 9,
+			"CarModel": "ks_mazda_mx5_cup",
+			"Timestamp": 2707780,
+			"LapTime": 185601,
+			"Sectors": [
+				55047,
+				81116,
+				49438
+			],
+			"Cuts": 0,
+			"BallastKG": 50
+		}
+	],
+	"Events": [
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 0,
+			"Driver": {
+				"Name": "JEMknight657",
+				"Team": "",
+				"Guid": "76561198064204883"
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Maestro-Ponchik",
+				"Team": "",
+				"Guid": "76561198016019269"
+			},
+			"ImpactSpeed": 4.950073,
+			"WorldPosition": {
+				"X": -429.42032,
+				"Y": 27.550468,
+				"Z": -958.5199
+			},
+			"RelPosition": {
+				"X": 0.5084679,
+				"Y": -0.15510121,
+				"Z": -2.0150318
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Maestro-Ponchik",
+				"Team": "",
+				"Guid": "76561198016019269"
+			},
+			"OtherCarId": 0,
+			"OtherDriver": {
+				"Name": "JEMknight657",
+				"Team": "",
+				"Guid": "76561198064204883"
+			},
+			"ImpactSpeed": 5.124581,
+			"WorldPosition": {
+				"X": -429.2641,
+				"Y": 27.540997,
+				"Z": -958.42303
+			},
+			"RelPosition": {
+				"X": -0.5770313,
+				"Y": -0.19334161,
+				"Z": 1.6887721
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 12,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"OtherCarId": 8,
+			"OtherDriver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"ImpactSpeed": 13.905117,
+			"WorldPosition": {
+				"X": -442.36786,
+				"Y": 28.370226,
+				"Z": -954.2442
+			},
+			"RelPosition": {
+				"X": -0.8186213,
+				"Y": 0.073074415,
+				"Z": -1.5560486
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 8,
+			"Driver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"OtherCarId": 12,
+			"OtherDriver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"ImpactSpeed": 6.8603616,
+			"WorldPosition": {
+				"X": -442.22964,
+				"Y": 28.36246,
+				"Z": -954.2457
+			},
+			"RelPosition": {
+				"X": 0.85846895,
+				"Y": 0.09679152,
+				"Z": 1.4341843
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Maestro-Ponchik",
+				"Team": "",
+				"Guid": "76561198016019269"
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "Sebbi",
+				"Team": "",
+				"Guid": "76561198030527121"
+			},
+			"ImpactSpeed": 2.937337,
+			"WorldPosition": {
+				"X": -277.5672,
+				"Y": 18.35759,
+				"Z": -896.7154
+			},
+			"RelPosition": {
+				"X": -0.9568882,
+				"Y": 0.4220657,
+				"Z": -0.11622587
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Sebbi",
+				"Team": "",
+				"Guid": "76561198030527121"
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Maestro-Ponchik",
+				"Team": "",
+				"Guid": "76561198016019269"
+			},
+			"ImpactSpeed": 8.449803,
+			"WorldPosition": {
+				"X": -186.19994,
+				"Y": 11.357576,
+				"Z": -836.5737
+			},
+			"RelPosition": {
+				"X": 0.79589796,
+				"Y": 0.12892258,
+				"Z": -1.6849192
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Sebbi",
+				"Team": "",
+				"Guid": "76561198030527121"
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 38.75659,
+			"WorldPosition": {
+				"X": -170.26384,
+				"Y": 10.344157,
+				"Z": -824.9283
+			},
+			"RelPosition": {
+				"X": 0.49045837,
+				"Y": 0.05921982,
+				"Z": 1.7962763
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Maestro-Ponchik",
+				"Team": "",
+				"Guid": "76561198016019269"
+			},
+			"ImpactSpeed": 6.197224,
+			"WorldPosition": {
+				"X": -232.58922,
+				"Y": 14.993622,
+				"Z": -872.22845
+			},
+			"RelPosition": {
+				"X": -0.85697234,
+				"Y": 0.23392107,
+				"Z": 0.2922254
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "Sebbi",
+				"Team": "",
+				"Guid": "76561198030527121"
+			},
+			"ImpactSpeed": 39.624603,
+			"WorldPosition": {
+				"X": -169.9419,
+				"Y": 10.284858,
+				"Z": -824.2467
+			},
+			"RelPosition": {
+				"X": -0.83559513,
+				"Y": 0.04994384,
+				"Z": 0.7771461
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 69.2349,
+			"WorldPosition": {
+				"X": -145.98923,
+				"Y": 8.377372,
+				"Z": -798.7772
+			},
+			"RelPosition": {
+				"X": -0.29546267,
+				"Y": -0.08791611,
+				"Z": 1.7882974
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Maestro-Ponchik",
+				"Team": "",
+				"Guid": "76561198016019269"
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 6.884131,
+			"WorldPosition": {
+				"X": -212.59709,
+				"Y": 13.334795,
+				"Z": -860.0694
+			},
+			"RelPosition": {
+				"X": 0.84021246,
+				"Y": -0.022209806,
+				"Z": 1.4504961
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Maestro-Ponchik",
+				"Team": "",
+				"Guid": "76561198016019269"
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "Sebbi",
+				"Team": "",
+				"Guid": "76561198030527121"
+			},
+			"ImpactSpeed": 19.019815,
+			"WorldPosition": {
+				"X": -187.08899,
+				"Y": 11.417707,
+				"Z": -837.30035
+			},
+			"RelPosition": {
+				"X": -0.72699594,
+				"Y": 0.083367266,
+				"Z": 1.5635825
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Maestro-Ponchik",
+				"Team": "",
+				"Guid": "76561198016019269"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 53.348625,
+			"WorldPosition": {
+				"X": -133.67183,
+				"Y": 8.584044,
+				"Z": -804.1659
+			},
+			"RelPosition": {
+				"X": -0.49035412,
+				"Y": 0.059221517,
+				"Z": 1.7962765
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Sebbi",
+				"Team": "",
+				"Guid": "76561198030527121"
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 3.9435475,
+			"WorldPosition": {
+				"X": -169.3488,
+				"Y": 9.889904,
+				"Z": -823.9899
+			},
+			"RelPosition": {
+				"X": 0.6435751,
+				"Y": -0.31212303,
+				"Z": 1.2755907
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Sebbi",
+				"Team": "",
+				"Guid": "76561198030527121"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 23.48391,
+			"WorldPosition": {
+				"X": -79.351204,
+				"Y": 3.3862486,
+				"Z": -727.22174
+			},
+			"RelPosition": {
+				"X": 0.5740696,
+				"Y": -0.15692955,
+				"Z": -2.0091565
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 4,
+			"Driver": {
+				"Name": "Sebbi",
+				"Team": "",
+				"Guid": "76561198030527121"
+			},
+			"OtherCarId": 6,
+			"OtherDriver": {
+				"Name": "DiscGolfer947",
+				"Team": "",
+				"Guid": "76561198059942076"
+			},
+			"ImpactSpeed": 60.495117,
+			"WorldPosition": {
+				"X": -126.727264,
+				"Y": 8.002299,
+				"Z": -791.8725
+			},
+			"RelPosition": {
+				"X": 0.8135763,
+				"Y": 0.072149925,
+				"Z": 1.0108663
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 6,
+			"Driver": {
+				"Name": "DiscGolfer947",
+				"Team": "",
+				"Guid": "76561198059942076"
+			},
+			"OtherCarId": 4,
+			"OtherDriver": {
+				"Name": "Sebbi",
+				"Team": "",
+				"Guid": "76561198030527121"
+			},
+			"ImpactSpeed": 58.608585,
+			"WorldPosition": {
+				"X": -126.5709,
+				"Y": 7.6090565,
+				"Z": -791.7809
+			},
+			"RelPosition": {
+				"X": -0.77582693,
+				"Y": -0.296624,
+				"Z": 1.497774
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 6,
+			"Driver": {
+				"Name": "DiscGolfer947",
+				"Team": "",
+				"Guid": "76561198059942076"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 42.035027,
+			"WorldPosition": {
+				"X": -76.76037,
+				"Y": 3.4335928,
+				"Z": -724.4258
+			},
+			"RelPosition": {
+				"X": -0.49043316,
+				"Y": 0.05922257,
+				"Z": 1.7962954
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 3,
+			"OtherDriver": {
+				"Name": "Mach 1 Fireman",
+				"Team": "",
+				"Guid": "76561198075006094"
+			},
+			"ImpactSpeed": 89.96769,
+			"WorldPosition": {
+				"X": -97.30638,
+				"Y": 5.273317,
+				"Z": -758.4236
+			},
+			"RelPosition": {
+				"X": 0.80201125,
+				"Y": -0.3148046,
+				"Z": 1.2477206
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"ImpactSpeed": 58.893047,
+			"WorldPosition": {
+				"X": -77.948494,
+				"Y": 3.8645527,
+				"Z": -731.88916
+			},
+			"RelPosition": {
+				"X": -0.54522794,
+				"Y": 0.06648789,
+				"Z": 1.7138085
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 12,
+			"OtherDriver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"ImpactSpeed": 116.27374,
+			"WorldPosition": {
+				"X": -76.0859,
+				"Y": 3.7889705,
+				"Z": -731.4716
+			},
+			"RelPosition": {
+				"X": -0.7914234,
+				"Y": 0.08159608,
+				"Z": -1.7029498
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Maestro-Ponchik",
+				"Team": "",
+				"Guid": "76561198016019269"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 1.9142526,
+			"WorldPosition": {
+				"X": -114.98641,
+				"Y": 7.2344513,
+				"Z": -785.2745
+			},
+			"RelPosition": {
+				"X": 0.8584995,
+				"Y": 0.09678919,
+				"Z": 1.4341989
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 3,
+			"Driver": {
+				"Name": "Mach 1 Fireman",
+				"Team": "",
+				"Guid": "76561198075006094"
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 84.14108,
+			"WorldPosition": {
+				"X": -97.252144,
+				"Y": 5.264475,
+				"Z": -758.27045
+			},
+			"RelPosition": {
+				"X": -0.7674876,
+				"Y": -0.29518512,
+				"Z": 1.4880282
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 3,
+			"Driver": {
+				"Name": "Mach 1 Fireman",
+				"Team": "",
+				"Guid": "76561198075006094"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 38.58159,
+			"WorldPosition": {
+				"X": -43.746227,
+				"Y": 0.98251665,
+				"Z": -688.49457
+			},
+			"RelPosition": {
+				"X": -2.5212765e-05,
+				"Y": 0.059220012,
+				"Z": 1.840548
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 12,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 99.6723,
+			"WorldPosition": {
+				"X": -75.6571,
+				"Y": 3.3468554,
+				"Z": -730.47455
+			},
+			"RelPosition": {
+				"X": 0.755491,
+				"Y": -0.2910903,
+				"Z": 1.478036
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 12,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 17.150187,
+			"WorldPosition": {
+				"X": -62.276333,
+				"Y": 2.4103436,
+				"Z": -708.6445
+			},
+			"RelPosition": {
+				"X": -0.8584799,
+				"Y": 0.09678921,
+				"Z": 1.4342083
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 40.037163,
+			"WorldPosition": {
+				"X": -77.76301,
+				"Y": 3.8526406,
+				"Z": -731.65247
+			},
+			"RelPosition": {
+				"X": 0.8692082,
+				"Y": 0.106546275,
+				"Z": -0.8100142
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 20.819393,
+			"WorldPosition": {
+				"X": -67.13031,
+				"Y": 2.545079,
+				"Z": -713.94543
+			},
+			"RelPosition": {
+				"X": -0.57314545,
+				"Y": -0.15670994,
+				"Z": -2.008692
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"OtherCarId": 6,
+			"OtherDriver": {
+				"Name": "DiscGolfer947",
+				"Team": "",
+				"Guid": "76561198059942076"
+			},
+			"ImpactSpeed": 130.97807,
+			"WorldPosition": {
+				"X": -53.40756,
+				"Y": 1.9172268,
+				"Z": -703.1097
+			},
+			"RelPosition": {
+				"X": -0.86228234,
+				"Y": 0.12937671,
+				"Z": 1.3602183
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 6,
+			"Driver": {
+				"Name": "DiscGolfer947",
+				"Team": "",
+				"Guid": "76561198059942076"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 23.057404,
+			"WorldPosition": {
+				"X": -55.470642,
+				"Y": 1.945632,
+				"Z": -701.23047
+			},
+			"RelPosition": {
+				"X": 0.26771092,
+				"Y": 0.17800066,
+				"Z": -2.0845823
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 6,
+			"Driver": {
+				"Name": "DiscGolfer947",
+				"Team": "",
+				"Guid": "76561198059942076"
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"ImpactSpeed": 127.8838,
+			"WorldPosition": {
+				"X": -53.32678,
+				"Y": 1.8363917,
+				"Z": -703.052
+			},
+			"RelPosition": {
+				"X": 0.8460194,
+				"Y": 0.037868883,
+				"Z": 0.08166532
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 6,
+			"Driver": {
+				"Name": "DiscGolfer947",
+				"Team": "",
+				"Guid": "76561198059942076"
+			},
+			"OtherCarId": 3,
+			"OtherDriver": {
+				"Name": "Mach 1 Fireman",
+				"Team": "",
+				"Guid": "76561198075006094"
+			},
+			"ImpactSpeed": 27.69244,
+			"WorldPosition": {
+				"X": -10.633499,
+				"Y": -0.79980516,
+				"Z": -668.8529
+			},
+			"RelPosition": {
+				"X": 0.85848385,
+				"Y": 0.09678933,
+				"Z": 1.4341984
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 12,
+			"OtherDriver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"ImpactSpeed": 14.255939,
+			"WorldPosition": {
+				"X": -64.03418,
+				"Y": 2.669979,
+				"Z": -714.83167
+			},
+			"RelPosition": {
+				"X": -0.852666,
+				"Y": 0.046037376,
+				"Z": -0.35781488
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 21.305752,
+			"WorldPosition": {
+				"X": -62.15168,
+				"Y": 2.3470392,
+				"Z": -708.5255
+			},
+			"RelPosition": {
+				"X": 0.4902808,
+				"Y": 0.05962944,
+				"Z": 1.7937644
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 11,
+			"OtherDriver": {
+				"Name": "Maestro-Ponchik",
+				"Team": "",
+				"Guid": "76561198016019269"
+			},
+			"ImpactSpeed": 29.896019,
+			"WorldPosition": {
+				"X": -31.1183,
+				"Y": 0.1237453,
+				"Z": -686.8581
+			},
+			"RelPosition": {
+				"X": 0.8186635,
+				"Y": -0.31555054,
+				"Z": 0.65228224
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Maestro-Ponchik",
+				"Team": "",
+				"Guid": "76561198016019269"
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 40.230835,
+			"WorldPosition": {
+				"X": -31.126791,
+				"Y": 0.14041428,
+				"Z": -686.9606
+			},
+			"RelPosition": {
+				"X": -0.7933402,
+				"Y": -0.29784566,
+				"Z": 1.4837333
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 11,
+			"Driver": {
+				"Name": "Maestro-Ponchik",
+				"Team": "",
+				"Guid": "76561198016019269"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 13.899669,
+			"WorldPosition": {
+				"X": -15.176667,
+				"Y": -0.46990213,
+				"Z": -678.9672
+			},
+			"RelPosition": {
+				"X": 0.85848415,
+				"Y": 0.09678936,
+				"Z": 1.4342067
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 3,
+			"Driver": {
+				"Name": "Mach 1 Fireman",
+				"Team": "",
+				"Guid": "76561198075006094"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 31.677929,
+			"WorldPosition": {
+				"X": -7.7466393,
+				"Y": -1.2372829,
+				"Z": -670.73486
+			},
+			"RelPosition": {
+				"X": 0.57405823,
+				"Y": -0.15692645,
+				"Z": -2.009186
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 3,
+			"Driver": {
+				"Name": "Mach 1 Fireman",
+				"Team": "",
+				"Guid": "76561198075006094"
+			},
+			"OtherCarId": 6,
+			"OtherDriver": {
+				"Name": "DiscGolfer947",
+				"Team": "",
+				"Guid": "76561198059942076"
+			},
+			"ImpactSpeed": 29.805702,
+			"WorldPosition": {
+				"X": -10.630527,
+				"Y": -0.7966558,
+				"Z": -668.91254
+			},
+			"RelPosition": {
+				"X": -0.83256316,
+				"Y": 0.108904496,
+				"Z": 0.4723907
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 12,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 38.315987,
+			"WorldPosition": {
+				"X": -35.784096,
+				"Y": 0.9555775,
+				"Z": -701.98425
+			},
+			"RelPosition": {
+				"X": 0.49040335,
+				"Y": 0.05922173,
+				"Z": 1.7962589
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 53.54501,
+			"WorldPosition": {
+				"X": -23.829227,
+				"Y": -0.2477827,
+				"Z": -672.1095
+			},
+			"RelPosition": {
+				"X": -0.8537359,
+				"Y": 0.062203765,
+				"Z": -1.2211142
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 27.329144,
+			"WorldPosition": {
+				"X": -24.166334,
+				"Y": -0.21478164,
+				"Z": -667.2079
+			},
+			"RelPosition": {
+				"X": 0.8693814,
+				"Y": 0.23261526,
+				"Z": -1.3858088
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 8,
+			"Driver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 26.343405,
+			"WorldPosition": {
+				"X": -28.207952,
+				"Y": 0.15970579,
+				"Z": -679.32874
+			},
+			"RelPosition": {
+				"X": 0.6403741,
+				"Y": 0.07452081,
+				"Z": 1.6487808
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 8,
+			"Driver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"ImpactSpeed": 5.5080147,
+			"WorldPosition": {
+				"X": -22.603458,
+				"Y": -0.3664964,
+				"Z": -668.7686
+			},
+			"RelPosition": {
+				"X": -0.85492265,
+				"Y": 0.09837216,
+				"Z": 1.4310558
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 7,
+			"Driver": {
+				"Name": "Sharkeh",
+				"Team": "",
+				"Guid": "76561197969361530"
+			},
+			"OtherCarId": 1,
+			"OtherDriver": {
+				"Name": "ConeDodger",
+				"Team": "",
+				"Guid": "76561198004896172"
+			},
+			"ImpactSpeed": 3.0474777,
+			"WorldPosition": {
+				"X": 210.47295,
+				"Y": 20.232649,
+				"Z": -360.79764
+			},
+			"RelPosition": {
+				"X": 0.36634237,
+				"Y": 0.070014,
+				"Z": -2.0599647
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 8,
+			"OtherDriver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"ImpactSpeed": 27.79088,
+			"WorldPosition": {
+				"X": -28.223022,
+				"Y": 0.14048973,
+				"Z": -679.09784
+			},
+			"RelPosition": {
+				"X": -0.8497899,
+				"Y": 0.0539874,
+				"Z": 0.26182157
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"ImpactSpeed": 51.909733,
+			"WorldPosition": {
+				"X": -23.99156,
+				"Y": -0.23620924,
+				"Z": -672.033
+			},
+			"RelPosition": {
+				"X": 0.49043578,
+				"Y": 0.059221394,
+				"Z": 1.7962728
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 12.695179,
+			"WorldPosition": {
+				"X": -21.12502,
+				"Y": -0.56654555,
+				"Z": -663.8968
+			},
+			"RelPosition": {
+				"X": -0.000348866,
+				"Y": 0.05974838,
+				"Z": 1.8367069
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 3,
+			"Driver": {
+				"Name": "Mach 1 Fireman",
+				"Team": "",
+				"Guid": "76561198075006094"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 13.895734,
+			"WorldPosition": {
+				"X": 13.522423,
+				"Y": -2.3230648,
+				"Z": -647.19025
+			},
+			"RelPosition": {
+				"X": 0.855971,
+				"Y": 0.09672244,
+				"Z": 1.4335105
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 17.755354,
+			"WorldPosition": {
+				"X": -14.90719,
+				"Y": -1.1994922,
+				"Z": -657.12024
+			},
+			"RelPosition": {
+				"X": 0.5739885,
+				"Y": -0.15696365,
+				"Z": -2.0090399
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"OtherCarId": 8,
+			"OtherDriver": {
+				"Name": "RebelCowboySnB",
+				"Team": "",
+				"Guid": "76561198092619430"
+			},
+			"ImpactSpeed": 3.3050828,
+			"WorldPosition": {
+				"X": -22.596872,
+				"Y": -0.35997134,
+				"Z": -668.74255
+			},
+			"RelPosition": {
+				"X": -0.8601047,
+				"Y": 0.11404754,
+				"Z": 1.3940712
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 7,
+			"Driver": {
+				"Name": "Sharkeh",
+				"Team": "",
+				"Guid": "76561197969361530"
+			},
+			"OtherCarId": 1,
+			"OtherDriver": {
+				"Name": "ConeDodger",
+				"Team": "",
+				"Guid": "76561198004896172"
+			},
+			"ImpactSpeed": 1.0892717,
+			"WorldPosition": {
+				"X": 327.31552,
+				"Y": 29.305449,
+				"Z": -192.33267
+			},
+			"RelPosition": {
+				"X": -0.13062853,
+				"Y": 0.084387615,
+				"Z": -2.0778387
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 1,
+			"Driver": {
+				"Name": "ConeDodger",
+				"Team": "",
+				"Guid": "76561198004896172"
+			},
+			"OtherCarId": 7,
+			"OtherDriver": {
+				"Name": "Sharkeh",
+				"Team": "",
+				"Guid": "76561197969361530"
+			},
+			"ImpactSpeed": 1.5871785,
+			"WorldPosition": {
+				"X": 329.22333,
+				"Y": 29.447025,
+				"Z": -189.42107
+			},
+			"RelPosition": {
+				"X": -0.007658124,
+				"Y": 0.059291348,
+				"Z": 1.8393738
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 0.115668654,
+			"WorldPosition": {
+				"X": -20.864275,
+				"Y": -0.5860894,
+				"Z": -663.6127
+			},
+			"RelPosition": {
+				"X": 0.49022585,
+				"Y": 0.05923139,
+				"Z": 1.7960203
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 6.9669447,
+			"WorldPosition": {
+				"X": -11.295744,
+				"Y": -1.1090857,
+				"Z": -653.1766
+			},
+			"RelPosition": {
+				"X": -0.2676745,
+				"Y": 0.17799903,
+				"Z": -2.0845592
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 10,
+			"Driver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"OtherCarId": 9,
+			"OtherDriver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"ImpactSpeed": 11.589185,
+			"WorldPosition": {
+				"X": 137.50487,
+				"Y": -0.47844213,
+				"Z": -527.20215
+			},
+			"RelPosition": {
+				"X": -0.85847485,
+				"Y": 0.09679052,
+				"Z": 1.4341968
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"OtherCarId": 10,
+			"OtherDriver": {
+				"Name": "NihonTiger",
+				"Team": "",
+				"Guid": "76561197988085739"
+			},
+			"ImpactSpeed": 9.505107,
+			"WorldPosition": {
+				"X": 152.2724,
+				"Y": 2.6737034,
+				"Z": -512.8583
+			},
+			"RelPosition": {
+				"X": 0.79600286,
+				"Y": 0.11766744,
+				"Z": -1.717074
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 50.391037,
+			"WorldPosition": {
+				"X": 202.70201,
+				"Y": 11.118489,
+				"Z": -483.51886
+			},
+			"RelPosition": {
+				"X": -0.85848415,
+				"Y": 0.09678765,
+				"Z": 1.4341863
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_ENV",
+			"CarId": 9,
+			"Driver": {
+				"Name": "Roterx2",
+				"Team": "",
+				"Guid": "76561198069921360"
+			},
+			"OtherCarId": -1,
+			"OtherDriver": {
+				"Name": "",
+				"Team": "",
+				"Guid": ""
+			},
+			"ImpactSpeed": 19.525198,
+			"WorldPosition": {
+				"X": 404.37183,
+				"Y": 36.11949,
+				"Z": 823.3716
+			},
+			"RelPosition": {
+				"X": -0.95966303,
+				"Y": 0.42660528,
+				"Z": -0.12995201
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 12,
+			"Driver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"OtherCarId": 6,
+			"OtherDriver": {
+				"Name": "DiscGolfer947",
+				"Team": "",
+				"Guid": "76561198059942076"
+			},
+			"ImpactSpeed": 19.136187,
+			"WorldPosition": {
+				"X": -185.55295,
+				"Y": 13.344939,
+				"Z": -454.45163
+			},
+			"RelPosition": {
+				"X": -0.84413636,
+				"Y": 0.08399095,
+				"Z": 1.4215263
+			}
+		},
+		{
+			"Type": "COLLISION_WITH_CAR",
+			"CarId": 6,
+			"Driver": {
+				"Name": "DiscGolfer947",
+				"Team": "",
+				"Guid": "76561198059942076"
+			},
+			"OtherCarId": 12,
+			"OtherDriver": {
+				"Name": "Incarcerant",
+				"Team": "",
+				"Guid": "76561198032973835"
+			},
+			"ImpactSpeed": 7.334123,
+			"WorldPosition": {
+				"X": -184.21931,
+				"Y": 13.379757,
+				"Z": -454.45325
+			},
+			"RelPosition": {
+				"X": 0.8584937,
+				"Y": 0.09678966,
+				"Z": 1.4342153
+			}
+		}
+	]
+}
