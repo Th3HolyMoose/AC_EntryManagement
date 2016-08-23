@@ -18,15 +18,15 @@ function spitEntryList($file) {
         $ball = 0;
         while(($line = fgets($handle)) !== false) {
             if(startsWith($line, "DRIVERNAME=")) {
-                echo " (" . $ball;
-                if (strlen($ball) == 1) echo "&nbsp;&nbsp;";
-                if (strlen($ball) == 2) echo "&nbsp;";
-                echo " kg): ";
+                //echo " (" . $ball;
+                //if (strlen($ball) == 1) echo "&nbsp;&nbsp;";
+                //if (strlen($ball) == 2) echo "&nbsp;";
+                //echo " kg): ";
                 echo substr($line, 11);
                 echo "<br>";
                 $c += 1;
             } else if(startsWith($line, "BALLAST=")) {
-                $ball = substr($line, 8);
+                //$ball = substr($line, 8);
             }
         }
         fclose($handle);
