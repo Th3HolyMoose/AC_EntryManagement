@@ -6,15 +6,15 @@ $pass = $_GET["pass"];
 $file = $_GET["file"];
 
 if($pass != $admin_psw) {
-	 echo "Incorrect password";
-	 exit();
+    echo "Incorrect password";
+    exit();
 }
 
 
 if(unlink("results/" . $file)) {
-		     echo "Delete Success.";
+    echo "Delete Success.";
 } else {
-  echo "Delete failure.";
+    echo "Delete failure.";
 }
 
 ?>
