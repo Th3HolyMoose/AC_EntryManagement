@@ -33,6 +33,7 @@ function spitEntryList($file) {
     }
     echo "<br>";
     echo "<h4>Total: " . $c . "</h4>";
+    return $c;
 }
 
 ?>
@@ -142,24 +143,32 @@ function spitEntryList($file) {
             <div style="float: left; display: inline-block; width: 30%; background-color: #DFDFDF;">
                 <h3>Heat 1 Entry List:</h3>
                 <?php
-                spitEntryList("H1_entry_list.ini");
+                $c1 = spitEntryList("H1_entry_list.ini");
                 ?>
 
             </div>
             <div style="float: left; display: inline-block; width: 30%; background-color: #DFDFDF;">
                 <h3>Heat 2 Entry List:</h3>
                 <?php
-                spitEntryList("H2_entry_list.ini");
+                $c2 = spitEntryList("H2_entry_list.ini");
                 ?>
 
             </div>
             <div style="display: inline-block; width: 30%; background-color: #DFDFDF;">
                 <h3>Heat 3 Entry List</h3>
                 <?php
-                spitEntryList("H3_entry_list.ini");
+                $c3 = spitEntryList("H3_entry_list.ini");
                 ?>
             </div>
-
+            
+            <?php
+            $minC = min(min($c1, $c2), $c3);
+            $maxC = max(max($c1, $c2), $c3);
+            for($i = 0; $i < ($maxC - $minC); $i++) {
+                echo "<br>";
+            }
+            ?>
+            
             <br><br>
             <div>
                 <!--
@@ -172,7 +181,9 @@ function spitEntryList($file) {
             -->
             </div>
 
-            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            
+            <br>
+            
             <div style="background-color: #DFDFDF;">
                 Download feature: <a href="entry_list.ini" download="entry_list.ini">Main Entry List (<?php echo intval((time() - filectime("entry_list.ini")) / 60); ?> minutes old)</a>, 
                 <a href="entry_list_2.ini" download="entry_list_2.ini">Secondary Entry List (<?php echo intval((time() - filectime("entry_list_2.ini")) / 60); ?> minutes old)</a>
@@ -234,22 +245,60 @@ function spitEntryList($file) {
             <div style="display: inline-block; float: left; width: 50%; background-color: #DFDFDF;">
                 <h3>Main Feature Entry List</h3>
                 <?php
-                spitEntryList("entry_list.ini");
+                $c1 = spitEntryList("entry_list.ini");
                 ?>
             </div>
             <div style="display: inline-block; width: 50%; background-color: #DFDFDF;">
                 <h3>Second Feature Entry List</h3>
                 <?php
-                spitEntryList("entry_list_2.ini");
+                $c2 = spitEntryList("entry_list_2.ini");
                 ?>
             </div>
 
-
+            <?php
+            
+            for($i = 0; $i < (max($c1, $c2) - min($c1, $c2)); $i++) {
+                echo "<br>";
+            }
+            ?>
 
             <br><br><br>
-
-
+            
+            <div style="background-color: #DFDFDF;">
+                <h2>Server Configuration</h2>
+                
+                <h3>Upload server_cfg.ini</h3>
+                <form action="uploadServerCFG.php?p=<?php echo $admin_psw; ?>" method="post" enctype="multipart/form-data">
+                    <input name="userfile[]" type="file" /><br />
+                    <input type="submit" value="Upload cfg" name="submit">
+                </form>
+                <br><br>
+                <form action="uploadServerCFG.php?p=<?php echo $admin_psw; ?>&entry=H2" method="post" enctype="multipart/form-data">
+                    <input type="submit" value="Load Heat 2 and Start Server" name="submit">
+                </form>
+                <br><br>
+                <form action="uploadServerCFG.php?p=<?php echo $admin_psw; ?>&entry=F2" method="post" enctype="multipart/form-data">
+                    <input type="submit" value="Load B Feature and Start Server" name="submit">
+                </form>
+                <br>
+                <br><br>
+                <h3>Currently uploaded cfg</h3>
+                <?php
+                $handle = fopen("preset_cfg.ini", "r");
+                if($handle) {
+                    while(($line = fgets($handle)) !== false) {
+                        echo $line . "<br>";
+                    }
+                }
+                fclose($handle);
+                ?>
+                
+            </div>
+        
+            
         </div>
+        
+        
 
 
 
