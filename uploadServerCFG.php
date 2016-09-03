@@ -9,11 +9,11 @@
     }
     if(isset($_GET["entry"])) {
         $e = $_GET["entry"];
-        exec("sh /conelanders/ac_loadcfg.sh " . $e);
+        exec("bash /conelanders/ac_loadcfg.sh " . $e . " &");
         exit();
     } else {
         for($i = 0; $i < 1; $i++) {
-            $target_dir = "";
+            $target_dir = "/conelanders/";
             $target_file = $target_dir . "preset_cfg.ini";//basename($_FILES["userfile"]["name"][$i]);
             if (move_uploaded_file($_FILES["userfile"]["tmp_name"][$i], $target_file)) {
                 echo "The file ". basename( $_FILES["userfile"]["name"][$i]). " has been uploaded.<br>";

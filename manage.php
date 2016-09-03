@@ -284,7 +284,7 @@ function spitEntryList($file) {
                 <br><br>
                 <h3>Currently uploaded cfg</h3>
                 <?php
-                $handle = fopen("preset_cfg.ini", "r");
+                $handle = fopen("/conelanders/preset_cfg.ini", "r");
                 if($handle) {
                     while(($line = fgets($handle)) !== false) {
                         echo $line . "<br>";

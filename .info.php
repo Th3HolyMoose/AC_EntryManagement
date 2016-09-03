@@ -3,7 +3,7 @@
 $events_signup = false;
 $season_signup = true;
 
-$admin_psw = "BadPasswordProtection";
+$admin_psw = "ItsAllMyFault";
 
 $eventMumbo = "iWtR";
 
