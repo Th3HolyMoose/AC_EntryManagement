@@ -11,8 +11,8 @@ include(".info.php");
             <div class="links">
                 <p class="lll">
                     <a target="_blank" class="ll" href="http://farlandsorbust.com">Far Lands or Bust</a>, 
-                    <a target="_blank" href="https://docs.google.com/document/d/10vqTCX3zqAaLKRBSqB0HPHMA4QGnoO9GEOXf1XBDgic/edit#heading=h.hhevn0icya3z" class="ll">Rules</a>, 
-                    <a target="_blank" class="ll" href="https://www.djomp.co.uk/stuff/conelanders/assetto-corsa">Djomps Points</a>, 
+                    <a target="_blank" href="<?php echo $rulesLink; ?>" class="ll">Rules</a>, 
+                    <a target="_blank" class="ll" href="<?php echo $pointsLink; ?>">Djomps Points</a>, 
                     <a target="_blank" class="ll" href="https://www.youtube.com/user/kurtjmac">Kurt's Youtube Channel</a>,
                     <a target="_blank" class="ll" href="https://www.youtube.com/user/ConeDodger240">ConeDodger240's Youtube Channel</a>,
                     <a target="_blank" class="ll" href="https://www.reddit.com/r/Conelanders/">Conelanders Reddit</a>
@@ -28,10 +28,15 @@ include(".info.php");
 
         <div class="text">
             <div class="contents">
-                <h1 class="large">Conelanders: Assetto Corsa Racing League Signups</h1>
+                <h1 class="large"><?php echo $leagueName; ?> Signups</h1>
 
                 <?php
-
+                if($season_signup == true) {
+                    include("season_signup.php");
+                }
+                if($events_signup == true) {
+                    
+                }
                 include("event_signup.php");
                 //exit();
 

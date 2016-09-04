@@ -10,7 +10,7 @@ function endsWith($haystack, $needle) {
 }
 
 
-if(!isset($_GET["f"]) || !isset($_GET["att"])) exit();
+if(!isset($_GET["f"]) || !isset($_GET["att"]) || !$events_signup) exit();
 
 $file = $_GET["f"] . ".acd";
 $att = $_GET["att"];

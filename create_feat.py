@@ -88,7 +88,7 @@ def getAcd(acd, g,d):
 carLimit = 18
 carLimit = int(sys.argv[1])
 carLimit = 20
-carLimit = min(int(sys.argv[1]), 10 * len(resultFiles))
+#carLimit = min(int(sys.argv[1]), 10 * len(resultFiles))
 print "Max cars for feature: " + str(carLimit)
 
 def applyBallasts(R):
@@ -126,7 +126,20 @@ def applyBallasts(R):
         R[0][i] = out
         
         i += 1
-        
+   
+if len(resultFiles) == 1:
+    S = getResults("results/" + resultFiles[0])
+    applyBallasts(S)
+    out = ""
+    for i in range(min(carLimit, S[5])):
+        out += "[CAR_" + str(i) + "]\n"
+        out += getAcd(S[0], str(S[1][i]), str(S[3][i])) + "\n\n\n"
+    print out
+    f = open("entry_list.ini", "w")
+    f.write(out)
+    f.close()
+    
+    
 if len(resultFiles) == 2:
     h1o = False
     h2o = False

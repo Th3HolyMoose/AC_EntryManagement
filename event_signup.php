@@ -1,5 +1,8 @@
 <?php
 
+include(".info.php");
+//if(!$events_signup) exit();
+
 function es_endsWith($haystack, $needle) {
     // search forward starting from end minus needle length characters
     return $needle === "" || (($temp = strlen($haystack) - strlen($needle)) >= 0 && strpos($haystack, $needle, $temp) !== false);
@@ -67,6 +70,12 @@ for($i = 0; $i < count($sorted); $i++) {
 ?>
 
 <div style="background-color: #222222; opacity: 1.0; height: 500px;">
+    <?php
+    if($events_signup == false) {
+        echo '<h1 class="header">Event Signups are CLOSED!</h1>';
+        exit();
+    }
+    ?>
     <h1 class="header">Signups for the coming event!</h1>
     <p class="bread">You MUST have signed up and been accepted for the actual season to sign up for an event! If you wish to join mid-season, talk to ConeDodger240!</p>
 
