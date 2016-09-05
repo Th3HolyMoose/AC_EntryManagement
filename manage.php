@@ -67,7 +67,7 @@ function spitEntryList($file) {
 
 
 
-        <h1>Conelanders Assetto Corsa League Signup Management</h1>
+        <h1><?php echo $leagueName; ?> Management</h1>
 
         <?php
 

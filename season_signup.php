@@ -70,7 +70,7 @@ for($i = 0; $i < count($sorted); $i++) {
 ?>
 
 <div style="background-color: #222222; opacity: 1.0; height: 500px;">
-    <h1 class="header">GT3 League Signups</h1>
+    <h1 class="header">GT3 League SEASON Signups</h1>
     <p class="bread">This is a signup page for Conelanders participants to join the GT3 League. If you aren't in the Conelanders Season contact Th3HolyMoose on Reddit or Discord!</p>
     <div style="position: relative; left: 35px;">
         <form id="form" onsubmit="return false;">
