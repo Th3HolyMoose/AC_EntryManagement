@@ -346,7 +346,7 @@ function spitEntryList($file) {
                 for ($i = 0; $i < count($fc); $i++) {
                     if(true) {
 
-                        $data = '<div style="background-color: %color%;"><form id="%formID%"><h2 style="display: inline;">%driver%</h2><a target="_blank" href="http://steamcommunity.com/profiles/%guid%">(Steam)</a><br><p style="display: inline;">Username</p><input style="display: inline; right: %inputAlign%; position: absolute;" type="text" name="user" id="user" value="%driver%"><br><p style="display: inline;">GUID</p><input style="display: inline; right: %inputAlign%; position: absolute;" type="text" name="guid" id="guid" value="%guid%"><br><p style="display: inline;">Car number</p><input style="display: inline; right: %inputAlign%; position: absolute;" type="text" name="number" id="numb" value="%number%"><br><p style="display: inline;">Attending</p><input type="checkbox" name="att" style="display: inline; position: relative; left: 32px;" value="y" %check%><br><p style="display: inline;">Ballast</p><input style="display: inline; right: %inputAlign%; position: absolute;" type="text" name="ballast" id="ballast" value="%ballast%"></form><input type="submit" onclick="driverSubmit(%formID%, %guid%)" value="Save" style="display: inline;"><br></div>';
+                        $data = '<div style="background-color: %color%;"><form id="%formID%"><h2 style="display: inline;">%driver%</h2><a target="_blank" href="http://steamcommunity.com/profiles/%guid%">(Steam)</a><br><p style="display: inline;">Username</p><input style="display: inline; right: %inputAlign%; position: absolute;" type="text" name="user" id="user" value="%driver%"><br><p style="display: inline;">GUID</p><input style="display: inline; right: %inputAlign%; position: absolute;" type="text" name="guid" id="guid" value="%guid%"><br><p style="display: inline;">Car number</p><input style="display: inline; right: %inputAlign%; position: absolute;" type="text" name="number" id="numb" value="%number%"><br><p style="display: inline;">Attending</p><input type="checkbox" name="att" style="display: inline; position: relative; left: 32px;" value="y" %check%><br><p style="display: inline;">Ballast</p><input style="display: inline; right: %inputAlign%; position: absolute;" type="text" name="ballast" id="ballast" value="%ballast%"><br><p style="display: inline;">Team</p><input style="display: inline; right: %inputAlign%; position: absolute;" type="text" name="team" id="team" value="%team%"></form><input type="submit" onclick="driverSubmit(%formID%, %guid%)" value="Save" style="display: inline;"></div>';
                         $formID = $dc + 0;
 
                         $dc += 1;
@@ -378,7 +378,9 @@ function spitEntryList($file) {
                                 $data = str_replace("%check%", $s, $data);
                             } else if (startsWith($line, "SKIN=")) {
                                 $data = str_replace("%number%", substr($line, 5), $data);
-                            }
+                            } else if(startsWith($line, "TEAM=")) {
+			      	$data = str_replace("%team%", substr($line, 5), $data);
+			    }
                         }
                         $color = "#BEBEBE";
                         if($dc % 2 == 0) $color = "#DFDFDF";
@@ -441,6 +443,7 @@ function spitEntryList($file) {
                     url += "&og=" + og;
                     url += "&ballast=" + form.ballast.value;
                     url += "&number=" + form.number.value;
+		    url += "&team=" + form.team.value;
                     if(sendAtt) url += "&attendance=" + form.att.checked;
 
                     console.log(url);
