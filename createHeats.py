@@ -53,9 +53,11 @@ for file in driverFiles:
     #drivers.append((cfg.get("asection", "MODEL"), cfg.get("asection", "SKIN"), cfg.get("asection", "SPECTATOR_MODE"), cfg.get("asection", "DRIVERNAME"), cfg.get("asection", "TEAM"), ))
     
     f = open("drivers/" + file, "rb")
-    acd.append(str(f.read()).split("\n\n\n")[0].replace("MODEL=", "MODEL=" + carModel))
+    acdInfo = str(f.read()).split("\n\n\n")[0]
+    acd.append(str(acdInfo)) #Optionally replace string to get correct car into there
     f.close()
-
+    #print acdInfo
+    #print "\n\n\n"
     drNames.append((cfg.get("asection", "DRIVERNAME"), cfg.get("asection","BALLAST")))
     drivers.append((cfg.get("asection", "ATTENDANCE"), ""))
 

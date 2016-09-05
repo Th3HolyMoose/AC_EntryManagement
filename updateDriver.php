@@ -8,6 +8,7 @@ function startsWith($haystack, $needle) {
 
 include 'info.php';
 
+$team = $_GET["team"];
 $user = $_GET["name"];
 $guid = $_GET["guid"];
 $og = $_GET["og"];
@@ -29,7 +30,7 @@ if(!$handle) {
     echo "Error opening file!";
     exit();
 }
-$out = "MODEL=" . $car . "\nSKIN=" . $num . "\nSPECTATOR_MODE=0\nDRIVERNAME=" . $user . "\nTEAM=\nGUID=" . $guid . "\nBALLAST=" . $ballast . "\n\n\nATTENDANCE=" . $att . "\n";
+$out = "MODEL=" . $car . "\nSKIN=" . $num . "\nSPECTATOR_MODE=0\nDRIVERNAME=" . $user . "\nTEAM=" . $team . "\nGUID=" . $guid . "\nBALLAST=" . $ballast . "\n\n\nATTENDANCE=" . $att . "\n";
 fwrite($handle, $out);
 fclose($handle);
 echo "Wrote driver file successfully: " . $file;
