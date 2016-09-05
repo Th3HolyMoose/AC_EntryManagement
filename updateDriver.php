@@ -8,6 +8,7 @@ function startsWith($haystack, $needle) {
 
 include 'info.php';
 
+$car = $_GET["car"];
 $team = $_GET["team"];
 $user = $_GET["name"];
 $guid = $_GET["guid"];
@@ -17,7 +18,7 @@ $att = isset($_GET["attendance"]) ? (($_GET["attendance"] == "true") ? "y" : "n"
 $num = $_GET["number"];
 //$ci = $_GET["car"];
 
-$car = $cars[0];
+//$car = $cars[0];
 $ballast = $_GET["ballast"];;
 
 $file = "drivers/" . $guid . ".acd";
